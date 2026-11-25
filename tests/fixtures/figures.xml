@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" dtd-version="1.3" specific-use="sps-1.10" article-type="research-article" xml:lang="pt">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">exemplo</journal-id>
+      <journal-title-group><journal-title>Revista Exemplo</journal-title></journal-title-group>
+      <publisher><publisher-name>OJSBR</publisher-name></publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.5555/ojsbr.jats.figuras</article-id>
+      <article-categories><subj-group subj-group-type="heading"><subject>Artigos</subject></subj-group></article-categories>
+      <title-group>
+        <article-title>Uso de laboratórios virtuais no ensino de física: figuras e tabela</article-title>
+        <trans-title-group xml:lang="en"><trans-title>Virtual laboratories in physics teaching: figures and a table</trans-title></trans-title-group>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid">0000-0002-1825-0097</contrib-id>
+          <name><surname>Pires</surname><given-names>Juliana</given-names></name>
+          <xref ref-type="aff" rid="aff1">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1"><label>1</label><institution content-type="original">Universidade Exemplo, Brasília, DF, Brasil</institution><institution content-type="orgname">Universidade Exemplo</institution><country country="BR">Brasil</country></aff>
+      <pub-date date-type="pub" publication-format="electronic"><day>25</day><month>11</month><year>2026</year></pub-date>
+      <history><date date-type="received"><day>10</day><month>06</month><year>2026</year></date><date date-type="accepted"><day>01</day><month>10</month><year>2026</year></date></history>
+      <permissions><license license-type="open-access" xlink:href="https://creativecommons.org/licenses/by/4.0/"><license-p>Artigo publicado sob a licença Creative Commons Atribuição 4.0.</license-p></license></permissions>
+      <abstract><title>Resumo</title><p>Comparamos o desempenho de turmas que usaram laboratórios virtuais com turmas de laboratório presencial.</p></abstract>
+      <kwd-group xml:lang="pt"><title>Palavras-chave</title><kwd>laboratório virtual</kwd><kwd>ensino de física</kwd></kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introdução</title>
+      <p>Os resultados estão na <xref ref-type="fig" rid="f1">Figura 1</xref>, na <xref ref-type="fig" rid="f2">Figura 2</xref> e na <xref ref-type="table" rid="t1">Tabela 1</xref>.</p>
+      <fig id="f1">
+        <label>Figura 1</label>
+        <caption><title>Notas médias por turma</title><p>As barras mostram a média das quatro turmas.</p></caption>
+        <graphic xlink:href="fig-1.png"/>
+        <attrib>Fonte: elaborada pelos autores.</attrib>
+      </fig>
+      <fig id="f2">
+        <label>Figura 2</label>
+        <caption><title>Distribuição dos estudantes por modalidade</title></caption>
+        <alternatives>
+          <graphic xlink:href="fig-2"/>
+          <graphic xlink:href="fig-2-thumb.jpg" specific-use="scielo-web" content-type="scielo-267x140"/>
+        </alternatives>
+      </fig>
+      <fig id="f3">
+        <label>Figura 3</label>
+        <caption><title>Figura cujo arquivo não foi enviado</title></caption>
+        <graphic xlink:href="nao-existe.tif"/>
+      </fig>
+      <table-wrap id="t1">
+        <label>Tabela 1</label>
+        <caption><title>Notas médias (0 a 10)</title></caption>
+        <table>
+          <thead><tr><th>Turma</th><th>Modalidade</th><th>Média</th></tr></thead>
+          <tbody>
+            <tr><td>A</td><td>Virtual</td><td>7,8</td></tr>
+            <tr><td>B</td><td>Presencial</td><td>7,1</td></tr>
+          </tbody>
+        </table>
+      </table-wrap>
+    </sec>
+  </body>
+  <back>
+    <ref-list><title>Referências</title>
+      <ref id="B1"><mixed-citation>SILVA, A. Laboratórios virtuais. <italic>Revista Teste</italic>, v. 1, 2025.</mixed-citation></ref>
+    </ref-list>
+  </back>
+  <sub-article article-type="translation" id="s1" xml:lang="en">
+    <front-stub>
+      <article-categories><subj-group subj-group-type="heading"><subject>Articles</subject></subj-group></article-categories>
+      <title-group><article-title>Virtual laboratories in physics teaching: figures and a table</article-title></title-group>
+      <abstract><title>Abstract</title><p>We compared the performance of classes that used virtual laboratories with classes in a physical laboratory.</p></abstract>
+      <kwd-group xml:lang="en"><title>Keywords</title><kwd>virtual laboratory</kwd><kwd>physics teaching</kwd></kwd-group>
+    </front-stub>
+    <body>
+      <sec sec-type="intro">
+        <title>Introduction</title>
+        <p>The results are in <xref ref-type="fig" rid="f1-en">Figure 1</xref>, <xref ref-type="fig" rid="f2-en">Figure 2</xref> and <xref ref-type="table" rid="t1-en">Table 1</xref>.</p>
+        <fig id="f1-en">
+          <label>Figure 1</label>
+          <caption><title>Average grades by class</title></caption>
+          <graphic xlink:href="fig-1.png"/>
+        </fig>
+        <fig id="f2-en">
+          <label>Figure 2</label>
+          <caption><title>Students by modality</title></caption>
+          <graphic xlink:href="fig-2.jpg"/>
+        </fig>
+        <table-wrap id="t1-en">
+          <label>Table 1</label>
+          <caption><title>Average grades (0 to 10)</title></caption>
+          <table>
+            <thead><tr><th>Class</th><th>Modality</th><th>Average</th></tr></thead>
+            <tbody>
+              <tr><td>A</td><td>Virtual</td><td>7.8</td></tr>
+              <tr><td>B</td><td>In person</td><td>7.1</td></tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+    </body>
+  </sub-article>
+</article>

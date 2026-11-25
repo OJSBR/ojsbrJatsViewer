@@ -1,0 +1,1217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.3 20210610//EN" "https://jats.nlm.nih.gov/publishing/1.3/JATS-journalpublishing1-3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" dtd-version="1.3" specific-use="sps-1.10" article-type="research-article" xml:lang="pt">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">rja</journal-id>
+      <journal-title-group>
+        <journal-title>Revista Jurídica da Amazônia</journal-title>
+        <abbrev-journal-title abbrev-type="publisher">RJA</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2965-9426</issn>
+      <publisher>
+        <publisher-name>Escola Superior do Ministério Público de Rondônia</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.63043/rja.v3i00.217</article-id>
+      <article-id pub-id-type="other">00003</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Artigos</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>A deferência como premissa para soluções estruturais: análise a partir da Lei de Introdução às Normas do Direito Brasileiro (LINDB) e do princípio da proteção à confiança</article-title>
+        <trans-title-group xml:lang="en">
+          <trans-title>Deference as a premise to structural solutions: an analysis based on law of introduction to the norms of Brazilian law (LINDB) and the principle of trust protection</trans-title>
+        </trans-title-group>
+        <trans-title-group xml:lang="es">
+          <trans-title>La deferencia como premisa para las soluciones estructurales: un análisis basado en la Lei de Introdução às Normas do Direito Brasileiro - LINDB (Ley de Introducción a las Normas del Derecho Brasileño) y el principio de protección de la confianza</trans-title>
+        </trans-title-group>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid">0000-0001-7343-2718</contrib-id>
+          <name>
+            <surname>Carvalho</surname>
+            <given-names>Camyla Figueiredo de</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">1</xref>
+          <role content-type="https://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role>
+          <role content-type="https://credit.niso.org/contributor-roles/writing-original-draft/">Writing – original draft</role>
+          <role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing – review &amp; editing</role>
+          <bio>
+            <p>Promotora de Justiça do Ministério Público do Estado de Rondônia. Mestre em Direito pela Faculdade Católica de Rondônia (FCR). Graduada em Direito pela Universidade Federal da Paraíba (UFPB). Especialista em Direito Administrativo e Gestão Pública. Especialista em Prevenção e Repressão à Corrupção: Aspectos Teóricos e Práticos. Membro do Instituto Rondoniense de Direito Administrativo (IRDA). Professora da disciplina Direito Antidiscriminatório na Escola Superior do Ministério Público de Rondônia (EMPRO).</p>
+          </bio>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1">
+        <label>1</label>
+        <institution content-type="orgname">Ministério Público do Estado de Rondônia</institution>
+        <addr-line>
+          <city>Porto Velho</city>
+          <state>Rondônia</state>
+        </addr-line>
+        <country country="BR">Brasil</country>
+        <institution content-type="original">Ministério Público do Estado de Rondônia (MPRO), Porto Velho – Rondônia (RO) – Brasil</institution>
+      </aff>
+      <author-notes>
+        <fn fn-type="edited-by">
+          <label>Editora-chefe:</label>
+          <p>Me. Edna Antônia Capeli da Silva Oliveira</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <label>Editora adjunta:</label>
+          <p>Me. Luciana Adélia Sottili</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <label>Editora Executiva:</label>
+          <p>Me. Giselle Araújo Gadotti</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <label>Editor Adjunto Executivo:</label>
+          <p>Prof. Dr. José Anderson Santos Cruz</p>
+        </fn>
+        <fn fn-type="coi-statement">
+          <label>Conflitos de interesse</label>
+          <p>Não há conflitos de interesse.</p>
+        </fn>
+        <fn fn-type="other">
+          <label>Contribuições dos autores</label>
+          <p>Autoria única.</p>
+        </fn>
+      </author-notes>
+      <pub-date publication-format="electronic" date-type="pub">
+        <day>10</day>
+        <month>11</month>
+        <year>2026</year>
+      </pub-date>
+      <pub-date publication-format="electronic" date-type="collection">
+        <year>2026</year>
+      </pub-date>
+      <volume>3</volume>
+      <elocation-id>e026003</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>27</day>
+          <month>08</month>
+          <year>2026</year>
+        </date>
+        <date date-type="rev-request">
+          <day>05</day>
+          <month>09</month>
+          <year>2026</year>
+        </date>
+        <date date-type="accepted">
+          <day>12</day>
+          <month>10</month>
+          <year>2026</year>
+        </date>
+        <date date-type="pub">
+          <day>10</day>
+          <month>11</month>
+          <year>2026</year>
+        </date>
+      </history>
+      <permissions>
+        <license license-type="open-access" xlink:href="https://creativecommons.org/licenses/by/4.0/" xml:lang="en">
+          <license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <title>Resumo</title>
+        <p>Este artigo pretende examinar a solução de litígios estruturais sob o enfoque de suas premissas, notadamente, a da deferência dos órgãos de controle e do Poder Judiciário às escolhas públicas do gestor, quando da realização de tratativas e condução de soluções consensuais. Objetiva-se analisar a adoção dos vetores consequencialistas pela alteração promovida na Lei de Introdução às Normas do Direito Brasileiro (LINDB), notadamente nos artigos 20 a 22, e perquirir se a postura de deferência pelos órgãos de controle em face da administração pública corrobora a principiologia que orienta o processo estrutural, e se é legítima como solução dialógica de litígios coletivos e como fundadora de ônus argumentativo aos atores do processo estrutural, guardados os devidos limites da interpretação legal. A proposição será desenvolvida a partir do método descritivo, a partir de análise bibliográfica direta. Tem-se em conclusão que se afigura viável a postura de deferência entre os agentes de controle e a administração pública como recurso para a solução de litígios estruturais, seja pela própria natureza consensual da proposta de solução do litígio por meio da formulação e implementação de um plano, seja ainda pelo fomentado modelo dialógico que orienta a atuação dos entes envolvidos.</p>
+      </abstract>
+      <kwd-group xml:lang="pt">
+        <title>Palavras-chave</title>
+        <kwd>Segurança jurídica</kwd>
+        <kwd>Boa-fé objetiva</kwd>
+        <kwd>Controle institucional</kwd>
+        <kwd>Políticas públicas</kwd>
+        <kwd>Processo coletivo</kwd>
+      </kwd-group>
+      <funding-group>
+        <funding-statement>Não se aplica.</funding-statement>
+      </funding-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>Introdução</title>
+      <p>Desde a edição da Lei nº 13.655/2018, que alterou a Lei de Introdução às Normas do Direito Brasileiro (LINDB) inserindo dez novos artigos que orientam a interpretação e a tomada de decisões nas esferas administrativa, controladora ou judicial (<xref ref-type="bibr" rid="B6">Brasil, 2018</xref>), passou a ocupar crescente centralidade no debate administrativista a adoção do consequencialismo na administração pública brasileira. Tal entendimento consubstancia-se nos vetores das consequências práticas, das circunstâncias administrativas, dos obstáculos e dificuldades reais do gestor e das exigências das políticas públicas enquanto fundamentos a serem considerados na interpretação das escolhas públicas pelos órgãos de controle e pelo Poder Judiciário.</p>
+      <p>No entorno da discussão legislativa, argumentou-se que a atividade de controle da administração pública – em que pese a relevância social e os retornos significativos em termos de contenção de arbitrariedades e de tutela de direitos fundamentais – teria assumido protagonismo inoportuno na interpretação primária da norma jurídica, suplantando a vontade do administrador e reduzindo o espaço de agência do Executivo.</p>
+      <p>Com efeito, a relação típica entre os órgãos de controle, o Poder Judiciário e a administração pública, notadamente na fiscalização do implemento de políticas públicas, revestia-se, tradicionalmente, de um caráter de dirigismo das escolhas do gestor, não sendo raros os casos noticiados de possível engessamento da atividade administrativa, comumente apontado pela doutrina como o malfadado ‘apagão das canetas’.</p>
+      <p>Somou-se a tal argumento o da ampla sindicabilidade das escolhas públicas com base na carga axiológica dos ditames constitucionais, atribuindo ao Poder Judiciário a legitimidade de vasta revisão das escolhas públicas, transpondo, doutrinariamente, as tradicionais divisas da conveniência e oportunidade típicas do ato administrativo discricionário.</p>
+      <p>O presente trabalho objetiva analisar a adoção dos vetores consequencialistas pela alteração promovida na Lei de Introdução às Normas do Direito Brasileiro (LINDB), notadamente nos artigos 20 a 22, e perquirir se a postura de deferência pelos órgãos de controle em face da administração pública corrobora a principiologia que orienta o processo estrutural, e se é legítima como solução dialógica de litígios coletivos e como fundadora de ônus argumentativo aos atores do processo estrutural, guardados os devidos limites da interpretação legal. Pretende-se abordar a deferência às escolhas públicas sob os limites da lógica consequencialista e contextualizar a postura deferente com a solução de litígios estruturais.</p>
+      <p>Apresenta-se como hipótese a de que a caracterização de um litígio como estrutural parece denotar — para além das comumente observadas complexidade material da demanda e multiplicidade de agentes envolvidos — uma abertura dialógica institucional entre os poderes.</p>
+      <p>No primeiro tópico, analisam-se os vetores consequencialistas inseridos na LINDB e o debate subjacente à adoção de tais mecanismos de interpretação. No segundo tópico, examinam-se a proteção à confiança legítima e o dever de boa-fé objetiva oponível à administração pública como reforço à racionalidade administrativa nas escolhas públicas, para, ao fim, no terceiro item, examinar a deferência institucional entre os órgãos de controle e o Poder Judiciário para com a administração pública como recurso para a solução de litígios estruturais.</p>
+    </sec>
+    <sec>
+      <title>O consequencialismo na LINDB: pragmatismo como equilíbrio institucional entre os poderes</title>
+      <p>Parece caminhar a um consenso doutrinário o entendimento de que a alteração legislativa inserida na LINDB a partir da Lei nº 13.655/2018 representou a adoção de critérios consequencialistas na interpretação dos atos e escolhas públicas, seja na seara administrativa, seja na atividade de controle, ou ainda na interpretação levada a cabo pelo Poder Judiciário.</p>
+      <p>A adoção de critérios como “consequências práticas” (<xref ref-type="bibr" rid="B6">Brasil, 2018, art. 20</xref>), “consequências jurídicas e administrativas", “peculiaridades do caso” (<xref ref-type="bibr" rid="B6">Brasil, 2018, art. 21</xref>) e “obstáculos e dificuldades reais do gestor” (<xref ref-type="bibr" rid="B6">Brasil, 2018, art. 22</xref>) enuncia reiteradamente a preocupação do legislador em fixar balizas interpretativas para o exercício do controle e da interpretação de atos administrativos, com o manifesto objetivo de “introduzir uma boa dose de pragmatismo e contextualização na interpretação e operação de normas de direito público” (<xref ref-type="bibr" rid="B13">Jordão, 2018, p. 63</xref>).</p>
+      <p>No que intitulou de “virada pragmatista” do direito administrativo, <xref ref-type="bibr" rid="B15">Mendonça (2014)</xref> argumenta que:</p>
+      <disp-quote>
+        <p>O novo estilo do Direito Administrativo possui, assim como o antigo, quatro características básicas. Ele é (i) próximo aos métodos americanos, (ii) pragmatista e empiricista, (iii) assistematizador e assistemático, e (iv) descrente na centralidade do Direito como chave de interpretação da vida econômica, política e social. (<xref ref-type="bibr" rid="B15">Mendonça, 2014, p. 179</xref>)</p>
+      </disp-quote>
+      <p>Nesse contexto, o consequencialismo jurídico, enquanto teoria da decisão judicial, caracteriza-se pela utilização das consequências do caso concreto como reforço argumentativo à legitimidade da atividade de controle da administração pública. É dizer, a consideração das circunstâncias práticas reveste-se de grau de normatividade apto a fundamentar as decisões, e suas premissas foram expressamente inseridas nos dez novos dispositivos adicionados à LINDB com o advento da Lei nº 13.655/2018.</p>
+      <p>A partir desta premissa pragmática de interpretação das escolhas públicas, apontam-se como pressupostos da nova LINDB os seguintes:</p>
+      <disp-quote>
+        <p>(i) a administração pública interpreta e sua interpretação tem peso; (ii) confiança no gestor público honesto para inovar a gestão pública; (iii) maior segurança jurídica para gestores, cidadãos e controladores; (iv) qualidade das decisões públicas pode ser melhor, favorecendo a segurança jurídica. (<xref ref-type="bibr" rid="B5">Bonacorsi de Palma, 2020, p. 209</xref>)</p>
+      </disp-quote>
+      <p>E prossegue <xref ref-type="bibr" rid="B5">Bonacorsi de Palma (2020)</xref>:</p>
+      <disp-quote>
+        <p>Na prática, dever de considerar os obstáculos e as dificuldades reais do gestor e as exigências de políticas públicas é um comando de sensibilização do controlador à realidade da burocracia pública brasileira: esses elementos de fato não devem ser ignorados, mas contemplados na hermenêutica jurídica, que não é pura. O ponto é particularmente relevante quando consideramos que a administração pública é a principal instituição de Estado responsável por garantir direitos fundamentais. Mais do que qualquer outra instituição de Estado, é a administração que interage diretamente com os cidadãos e, por meio da prestação de serviços públicos, implementa as políticas públicas a seu cargo. (<xref ref-type="bibr" rid="B5">Bonacorsi de Palma, 2020, p. 232</xref>)</p>
+      </disp-quote>
+      <p>O argumento recorrente de parcela considerável da doutrina que aparece como corolário dos fundamentos consequencialistas inseridos na LINDB é a segurança jurídica que “deixa de ser uma mera exigência de predeterminação e passa a materializar um dever de controle racional e argumentativo do Direito” (<xref ref-type="bibr" rid="B2">Ávila, 2021, p. 273</xref>).</p>
+      <p>A preocupação do legislador com a inserção dos novos dispositivos estaria no fato,</p>
+      <disp-quote>
+        <p>constatado empiricamente, de que não raro o controlador assume a competência administrativa. O deslocamento da competência da esfera administrativa para a esfera controladora implica não apenas a transferência de poderes decisórios e suas prerrogativas, mas também de todas as sujeições que incidem sobre o gestor público. (<xref ref-type="bibr" rid="B5">Bonacorsi de Palma, 2020, p. 232</xref>)</p>
+      </disp-quote>
+      <p><xref ref-type="bibr" rid="B13">Jordão (2018)</xref> acrescenta ainda outra camada ao debate, ao argumentar que a alteração legislativa aprofunda o ponto de vista doutrinário da indeterminação do Direito como única forma legítima de controle social e solução de problemas:</p>
+      <disp-quote>
+        <p>Esta supervalorização do direito (como técnica para ou inventário de solução dos diversos problemas sociais) favorece os bacharéis em direito, na medida em que os empodera. Afinal, eles se posicionam como oráculos, capazes de desvelar a determinação escondida e específica do ordenamento jurídico, da qual ninguém poderia se afastar licitamente. Mas ela é socialmente problemática, por afastar soluções igualmente possíveis de acordo com outra leitura razoável do direito, bem como por minimizar o input que outras expertises, não jurídicas, podem dar para a melhor aplicação das regras jurídicas. … Como, a despeito da teoria em contrário, o direito é frequentemente indeterminado, não é raro que os órgãos de controle possuam interpretações diferentes da do administrador a propósito de qual seria a solução específica a ser adotada em determinado caso. E, com base nesta teoria idealizada e irrealista, mesmo que a interpretação da administração tenha sido razoável, acham que há espaço para anulações, suspensões, punições e repressões. (<xref ref-type="bibr" rid="B13">Jordão, 2018, p. 67</xref>)</p>
+      </disp-quote>
+      <p>Por outro lado, parte da crítica ao consequencialismo inserido na LINDB reside na questão da legitimidade desta mesma utilização de consequências práticas como fundamentação de decisões. A parcela crítica</p>
+      <disp-quote>
+        <p>ressalta que os argumentos baseados em consequências aparecem “mascarados dentro de argumentos formais e normativos” e atribui este fenômeno ao “preconceito” dos operadores do Direito e da sociedade, que acreditam que o papel do juiz é aplicar a lei, e não operar com resultados. (<xref ref-type="bibr" rid="B16">Mendonça, 2018, pp. 31–32</xref>)</p>
+      </disp-quote>
+      <p>No ponto, <xref ref-type="bibr" rid="B11">Gabardo e Souza (2020)</xref>, apresentando a perspectiva de Ronald Dworkin e as premissas filosóficas da obra <italic>Critique de l’efficacité,</italic> de Jacques de Mouel, ensinam que:</p>
+      <disp-quote>
+        <p>o autor se opõe à ideia pragmática de que “o eficaz equivale ao verdadeiro”, pois tal percepção da realidade: 1. não consegue trabalhar com o complexo, 2. privilegia a ação em detrimento do conhecimento, 3. rechaça as contradições do sistema, e 4. evita a importante pergunta “por quê?”. (<xref ref-type="bibr" rid="B11">Gabardo &amp; Souza, 2020, p. 107</xref>)</p>
+      </disp-quote>
+      <p>E, como exemplo, ilustram <xref ref-type="bibr" rid="B11">Gabardo e Souza (2020)</xref>:</p>
+      <disp-quote>
+        <p>No Brasil, um dos mais recentes exemplos de uma política pública pragmática que acaba por impor uma visão simplista de mundo a partir de uma visão econômica é a do teto de gastos estabelecido pela Emenda Constitucional nº 95/2016.39 Sob o mando de um raciocínio pragmático adota-se uma ação contrária aos princípios do Direito Constitucional em vigor – criando uma dissonância dentro do ordenamento (não controlada pelo Judiciário, que passa a admitir cada vez mais este mecanismo de atuação dos Poderes Públicos justamente pelo prisma da consideração das consequências e não da integridade do sistema). (<xref ref-type="bibr" rid="B11">Gabardo &amp; Souza, 2020, p. 107</xref>)</p>
+      </disp-quote>
+      <p>Ainda na crítica às alterações promovidas na LINDB, sob a perspectiva dos órgãos de controle, pontua <xref ref-type="bibr" rid="B3">Bertoncini (2022)</xref>:</p>
+      <disp-quote>
+        <p>o efetivo exercício do controle dos atos da Administração Pública pelos órgãos competentes pode produzir mudanças nos negócios jurídicos via invalidação ou retificação, total ou parcial. Nenhum ato ou contrato administrativo é dotado de presunção absoluta de legalidade. Nessa medida, o risco e a relativa instabilidade são inerentes a qualquer sistema, seja porque efetivamente existente e declarado o defeito ou vício, seja também, porque não dizer, em razão de erro de diagnóstico dos agentes de controle, risco inerente à natureza humana, presente não apenas no sistema brasileiro de controle de legalidade. O problema reside em se compreender que o erro é uma constante na atividade de controle, como se o controle disfuncional fosse a regra absoluta, premissa evidentemente falsa, como falsa é a noção de que o administrador público nunca erra. (<xref ref-type="bibr" rid="B3">Bertoncini, 2022</xref>)</p>
+      </disp-quote>
+      <p>De outro lado, parece prevalecer a compreensão de parcela majoritária da doutrina administrativista, que se ocupa do debate acerca da alegada ausência de referenciais objetivos para o controle da administração pública, apontando como viés tradicional dos mecanismos de controle uma “retórica de desqualificação das estratégias administrativas eleitas, tidas por aprioristicamente inadequadas por despreparo ou contaminação político-partidária de seus formuladores” (<xref ref-type="bibr" rid="B14">Lírio do Valle, 2020, p. 110</xref>).</p>
+      <p>A LINDB caminhou no sentido de superar o paradigma do controle inafastável da ação do gestor, fundado na premissa da <italic>desconfiança</italic> prévia quanto ao momento da escolha pública, para uma análise <italic>ex post</italic>, em que se afere a sintonia da escolha pública com os mandamentos constitucionais.</p>
+      <p>Acerca do parâmetro de controle público que se buscou superar, pontua <xref ref-type="bibr" rid="B17">Modesto (2024)</xref>:</p>
+      <disp-quote>
+        <p>O paradigma da ação ou omissão culposa como causa geral de danos apresenta ainda outras imprecisões e inconvenientes. A atividade de controle é percebida como atividade de restauração. Busca-se restaurar o <italic>status quo ante</italic> a ordem virtuosa anterior à perturbada interferência da ação culposa ou deliberada dos agentes responsáveis. O controle assume feições expiatórias e repressivas, dirige a sua atenção ao passado e à sanção dos culpados, sem perceber que muitas vezes a volta ao passado é impossível ou de elevado custo. Essa indiferença ao custo é também outra marca do paradigma quase religioso da expiação da culpa: não se avalia quanto custa o controle e seu impacto na cadeia social. O importante é o caráter exemplar da sanção ao erro, o seu efeito educativo, independentemente dos custos encartados nas soluções de controle. (<xref ref-type="bibr" rid="B17">Modesto, 2024, pp. 169–170</xref>)</p>
+      </disp-quote>
+      <p>A orientação geral informada ainda quando do projeto de lei que alterou a LINDB era a de “consolidar e melhorar as regulações e controles públicos existentes e, ao mesmo tempo, proteger pessoas, organizações e servidores contra incertezas, riscos e custos injustos. Não é um assunto apenas para profissionais do Direito, mas para toda a sociedade” (<xref ref-type="bibr" rid="B1">Anastasia, 2015, p. 5</xref>).</p>
+      <p>Ainda sobre o debate subjacente à adoção do consequencialismo inserido na LINDB, leciona <xref ref-type="bibr" rid="B21">Rafael Barreto da Silva (2022)</xref>:</p>
+      <disp-quote>
+        <p>Diante de um cenário de desequilíbrio era necessário apresentar uma resposta legislativa para balancear a relação entre controlador e controlado, de modo que o lado mais forte receberia um ônus maior para tornar a competição menos desigual. A ideia de Carlos Ari Sundfeld, arquitetada em conjunto com Floriano de Azevedo Marques Neto, seria a inserção, na LINDB, de normas capazes de tornar “mais segura a atuação dos gestores e dos parceiros privados, sem comprometer a eficiência da atividade administrativa e o papel do controle público”. A LINDB seria o local adequado por ser uma “lei bússola”, uma espécie legislativa que define a forma de funcionamento de todo o ordenamento e que teria condição de abrigar dispositivos que funcionassem como “parte geral” do direito público sem sofrer desnaturalização. (<xref ref-type="bibr" rid="B21">Silva, 2022, p. 140</xref>)</p>
+      </disp-quote>
+      <p>No contexto da solução consequencialista proposta pela LINDB, <xref ref-type="bibr" rid="B22">Sundfeld e Castro Neves (2023)</xref> argumentam que a lei</p>
+      <disp-quote>
+        <p>exige, do controlador jurídico, especial atenção tanto ao espaço próprio das políticas e dos negócios públicos, como à realidade concreta da administração. Também procura evitar que se apliquem soluções idealizadas, que já seriam pré-concebidas pelo Direito e depois seriam apenas identificadas nos casos concretos. (<xref ref-type="bibr" rid="B22">Sundfeld &amp; Castro Neves, 2023, p. 67</xref>)</p>
+      </disp-quote>
+      <p>No mesmo sentido, argumenta <xref ref-type="bibr" rid="B5">Bonacorsi de Palma (2020)</xref>:</p>
+      <disp-quote>
+        <p>A nova LINDB supera a questão que provoco – espaço da administração e do controle – para focar no resultado final: coerência, transparência e maior fluxo de informações para que as ações públicas sejam mais previsíveis e estáveis. Por essa razão, tamanha ênfase na motivação qualificada. Os ônus de fundamentação não são constrangimentos aos controladores, mas antes respostas que devem ser fornecidas em função do tipo de decisão que será tomada – por quem quer que seja, administração ou controlador. Esses são ônus que permitem o diálogo institucional e o endereçamento concreto por meio de ajuste de comportamentos, alteração normativa, revisão de atos, procedimentos e contratos etc. (<xref ref-type="bibr" rid="B5">Bonacorsi de Palma, 2020, p. 245</xref>)</p>
+      </disp-quote>
+      <p>Os argumentos do equilíbrio institucional e da segurança jurídica parecem conduzir amplamente o debate doutrinário, que se funda nas premissas da segurança jurídica e no imperativo do “conforto decisório” ao gestor que atua presumivelmente de boa-fé.</p>
+      <p>No próximo tópico, aprofunda-se a análise sobre a segurança jurídica e proteção à confiança do cidadão administrado como diretrizes da alteração promovida na LINDB.</p>
+    </sec>
+    <sec>
+      <title>A proteção à confiança legítima e a boa-fé como critérios de valorização das escolhas públicas</title>
+      <p>A segurança jurídica ocupa tradicionalmente um espaço de destaque, seja no âmbito doutrinário, seja no interesse do legislador, seja ainda nas aspirações fáticas dos agentes estatais e dos cidadãos administrados. Nas palavras de <xref ref-type="bibr" rid="B20">Sarlet (2004)</xref>:</p>
+      <disp-quote>
+        <p>levar a sério a segurança jurídica implica a análise de todas as suas dimensões, o que inclui não apenas uma compreensão do significado e conteúdo do direito à segurança jurídica, mas alcança igualmente o problema de sua eficácia e efetividade. (<xref ref-type="bibr" rid="B20">Sarlet, 2004, p. 10</xref>)</p>
+      </disp-quote>
+      <p>No campo das dimensões da segurança jurídica, <xref ref-type="bibr" rid="B19">Quintiliano (2018)</xref>, citando Canotilho, argumenta que:</p>
+      <disp-quote>
+        <p>o princípio do Estado de Direito, densificado pela segurança jurídica e pela confiança jurídica, reforça a coexistência de dois elementos: um objetivo da ordem jurídica, relacionada à sua durabilidade, paz jurídico-social; outro garantístico e subjetivo, de proteção à confiança de permanência das situações jurídicas. (<xref ref-type="bibr" rid="B19">Quintiliano, 2018, p. 133</xref>)</p>
+      </disp-quote>
+      <p>Traçando os contornos do conceito do princípio da proteção à confiança e seus objetivos, leciona <xref ref-type="bibr" rid="B9">Di Pietro (2009)</xref>:</p>
+      <disp-quote>
+        <p>O princípio da proteção à confiança protege a boa-fé do administrado; por outras palavras, a confiança que se protege é aquela que o particular deposita na Administração. O particular confia em que a conduta da Administração esteja correta, de acordo com a lei e o direito. Daí a possibilidade de manter os atos ilegais ou de regular os efeitos pretéritos dos atos inválidos. (<xref ref-type="bibr" rid="B9">Di Pietro, 2009, p. 155</xref>)</p>
+      </disp-quote>
+      <p>E aprofunda, em outra obra, a mesma doutrinadora:</p>
+      <disp-quote>
+        <p>A segurança jurídica tem muita relação com a ideia de respeito à boa-fé. Se a Administração adotou determinada interpretação corno a correta e a aplicou a casos concretos, não pode depois vir a anular atos anteriores, sob o pretexto de que os mesmos foram praticados com base em errônea interpretação. Se o administrado teve reconhecido determinado direito com base em interpretação adotada em caráter uniforme para toda a Administração, é evidente que a sua boa-fé deve ser respeitada. Se a lei deve respeitar o direito adquirido, o ato jurídico perfeito e a coisa julgada, por respeito ao princípio da segurança jurídica, não é admissível que o administrado tenha seus direitos flutuando ao sabor de interpretações jurídicas variáveis no tempo. (<xref ref-type="bibr" rid="B10">Di Pietro, 2014, p. 234</xref>)</p>
+      </disp-quote>
+      <p>Nesse contexto, desponta a análise da boa-fé objetiva enquanto critério igualmente oponível à administração pública, como fator de legitimidade das escolhas do gestor. Doutrinariamente, diferencia-se a boa-fé objetiva, enquanto regra de conduta e critério de orientação para interpretação e integração das relações jurídicas, da boa-fé subjetiva, enquanto estado psicológico de um sujeito que supõe estar agindo em conformidade com as normas do ordenamento, cuja consciência e reserva mental se colocam estaticamente em consonância com a ética.</p>
+      <p>O exame desses conceitos já foi objeto de nossa análise:</p>
+      <disp-quote>
+        <p>A boa-fé objetiva pode ser compreendida como norma de correção e, neste sentido, não guarda qualquer relação com a esfera íntima dos indivíduos. Desenvolve-se de modo dinâmico e é exterior ao sujeito, podendo ser valorada juridicamente e, se desrespeitada, servir de parâmetro à responsabilidade civil da parte faltosa, dado que o seu conteúdo gera deveres secundários de conduta que impõem às partes comportamentos necessários, ainda que não previstos expressamente no instrumento negocial. Relaciona-se menos com a esfera de consciência dos sujeitos do que propriamente como dever objetivo de manutenção do equilíbrio negocial entre as partes. (<xref ref-type="bibr" rid="B8">Carvalho, 2016, p. 47</xref>)</p>
+      </disp-quote>
+      <p>De tudo quanto produzido doutrinariamente acerca do tema, parece natural exigir-se da administração pública o acatamento da cláusula geral da boa-fé objetiva como regra de legitimidade de seus atos, sejam internos ou, tanto mais, nas relações jurídicas com os particulares, já que “parece difícil considerar o Estado excluído da obrigação de respeitar um princípio básico do direito e da moral, como é o da boa-fé, pois o simples fato de a Administração procurar o bem comum não lhe autoriza querer fugir de tal limite” (<xref ref-type="bibr" rid="B18">Nobre Júnior, 2002</xref>).</p>
+      <p>Elucidando o paradigma da legitimidade das escolhas públicas a partir dos mandamentos constitucionais, ensina <xref ref-type="bibr" rid="B14">Lírio do Valle (2020)</xref>:</p>
+      <disp-quote>
+        <p>Sob a égide da Constituição de 1988, tem-se que o signo de legitimidade da ação estatal passa a repousar na sintonia entre o seu agir e os propósitos constitucionais a ele traçados. Desloca-se o lugar de apuração do alinhamento com a dimensão substantiva da democracia – portanto, da legitimidade da ação estatal – do momento de formulação em si da escolha pública, em que se identificava quem o seu autor; para aquele posterior a ela, onde se afere sua sintonia com os propósitos constitucionais na sua concepção em abstrato, e ainda na sua execução em concreto. Legitima-se a escolha pública pelos seus resultados (Moreira Neto, 2006); logo, o critério não comporta mais um modelo puramente formal, que se dê por satisfeito com a presença da Administração Pública como sujeito. Ao contrário, impositivo o ingresso do elemento substantivo no exercício do controle do poder, por qualquer das estruturas a isso incumbidas. (<xref ref-type="bibr" rid="B14">Lírio do Valle, 2020, p. 115</xref>)</p>
+      </disp-quote>
+      <p>Nesse contexto, em que se propõe superar-se o tradicional modelo de controle da ação estatal — do momento da formulação em si da escolha pública, para a sua sintonia com os propósitos constitucionais —, insere-se novamente o debate acerca da opção legislativa inserida na LINDB.</p>
+      <p>Reportando-se à Lei nº 13.655/18 como “Lei de Segurança Jurídica”, argumenta <xref ref-type="bibr" rid="B5">Bonacorsi de Palma (2020)</xref>:</p>
+      <disp-quote>
+        <p>O art. 20, o art. 21 e o art. 22 da Lei de Segurança Jurídica devem ser lidos como testes de deferência. Se diante de uma concessão de serviço público o controlador não conseguir indicar de modo expresso suas consequências jurídicas e administrativas ou não puder indicar as condições para que a regularização ocorra de modo proporcional, equânime e sem prejuízo de interesses gerais, então ele não deverá invalidar, pedir sua invalidação ou celebrar ajuste de conduta. Não podendo o controlador cumprir com os ônus argumentativos, a interpretação administrativa merece deferência e a ação administrativa deve ser preservada. (<xref ref-type="bibr" rid="B5">Bonacorsi de Palma, 2020, p. 232</xref>)</p>
+      </disp-quote>
+      <p>Nesse sentido, a proteção à confiança legítima dos cidadãos administrados funciona, a um só tempo, como requisito de legitimidade da escolha pública, como limitação à discricionariedade dos atos administrativos, e, ainda, como importante balizador dos limites da atividade de controle da administração pública.</p>
+      <p>No próximo tópico, examina-se o exercício dialógico da fiscalização de políticas públicas e a deferência institucional entre os órgãos de controle e o Poder Judiciário para com a administração pública a partir da ótica dos litígios estruturais.</p>
+    </sec>
+    <sec>
+      <title>A postura deferente às escolhas públicas como dispositivo para solução de litígios estruturais</title>
+      <p>A partir da análise dos caracteres consequencialistas inseridos na LINDB e da proeminência da segurança jurídica e da proteção à confiança como vetores de legitimidade das escolhas públicas, sugere-se no presente tópico que a caracterização de um litígio como estrutural — para além da complexidade material da demanda e multiplicidade de agentes envolvidos — pode concretizar igualmente uma abertura dialógica institucional entre os poderes.</p>
+      <p>O debate se insere no estudo dos processos coletivos, cuja litigiosidade e complexidade tornam a forma de tutela pretendida igualmente multifacetada. No dizer de <xref ref-type="bibr" rid="B23">Vitorelli (2018)</xref>, a análise dos litígios complexos</p>
+      <disp-quote>
+        <p>se afasta significativamente do binômio lícito-ilícito e se aproxima, inevitavelmente, de considerações que dependem de <italic>inputs</italic> políticos, econômicos e de outras áreas do conhecimento. Os problemas são policêntricos e sua solução não está preestabelecida na lei, o que acarreta grandes dificuldades para a atuação jurisdicional. (<xref ref-type="bibr" rid="B23">Vitorelli, 2018, pp. 335–336</xref>)</p>
+      </disp-quote>
+      <p>Nesse contexto,</p>
+      <disp-quote>
+        <p>é frequente a sugestão de que a intensidade da intervenção dos tribunais seja modulada em função da natureza das decisões administrativas sob controle: questões jurídicas mereceriam controle mais intenso; questões técnicas ou políticas ensejariam a deferência judicial. A ideia subjacente é a de que a intensidade do controle judicial deve adaptar-se às características da decisão administrativa controlada ou da autoridade administrativa que a prolatou. (<xref ref-type="bibr" rid="B12">Jordão, 2016, p. 9</xref>)</p>
+      </disp-quote>
+      <p>Em sugestão à forma de controle sob uma postura deferente, pontuam <xref ref-type="bibr" rid="B7">Cardoso e Santos (2023)</xref>:</p>
+      <disp-quote>
+        <p>O controlador, ao invés de impor, no caso, a leitura e interpretação jurídica que ele mesmo faria nesse contexto de indeterminação, deveria cogitar da existência de uma álea de razoabilidade, ou um leque de interpretações razoáveis, isto é, deveria se limitar a avaliar a razoabilidade da escolha interpretativa realizada pelo administrador público, prestando deferência à escolha interpretativa razoável da administração, mesmo que ela não corresponda à escolha interpretativa específica que ele próprio (controlador) faria, se coubesse a ele a interpretação em primeira mão. (<xref ref-type="bibr" rid="B7">Cardoso &amp; Santos, 2023, p. 139</xref>)</p>
+      </disp-quote>
+      <p>A aferição de tais premissas como dispositivos para a solução de litígios estruturais demanda a análise do conceito destes últimos. No ponto, leciona <xref ref-type="bibr" rid="B23">Vitorelli (2018)</xref>:</p>
+      <disp-quote>
+        <p>Litígios estruturais são litígios coletivos decorrentes do modo como uma estrutura burocrática, usualmente, de natureza pública, opera. O funcionamento da estrutura é que causa, permite ou perpetua a violação que dá origem ao litígio coletivo. Assim, se a violação for apenas removida, o problema poderá ser resolvido de modo aparente, sem resultados empiricamente significativos, ou momentaneamente, voltando a se repetir no futuro. … todo litígio estrutural é um litígio coletivo irradiado. Isso porque o litígio estrutural tem lugar no contexto de uma violação que atinge subgrupos sociais diversos, com intensidades e de formas diferentes, afetando os interesses desses subgrupos de modos distintos, sem que haja, entre eles, qualquer perspectiva social compartilhada. Pode ser que parte do grupo seja até mesmo beneficiada pela manutenção do status posterior à violação e se volte contra a pretensão da sociedade. É por isso que os litígios estruturais são policêntricos e não se enquadram adequadamente no esquema processual tradicional. (<xref ref-type="bibr" rid="B23">Vitorelli, 2018, p. 333</xref>)</p>
+      </disp-quote>
+      <p>É precisamente no caráter policêntrico dos litígios estruturais que se abre o espaço dialógico institucional para a reformulação da estrutura que é causadora, ou, de alguma forma, responsável pela violação que dá origem ao litígio.</p>
+      <p>Assim, havendo sob análise a reestruturação de um mecanismo público ou privado que represente violação à consecução dos propósitos constitucionais em favor dos cidadãos administrados, justifica-se a postura de deferência dos órgãos de controle às escolhas públicas antecedidas do inafastável dever de planejamento do gestor.</p>
+      <p>Nesse sentido, argumenta <xref ref-type="bibr" rid="B14">Lírio do Valle (2020)</xref> que:</p>
+      <disp-quote>
+        <p>se tudo se desenvolve a partir da argumentação racional (e outra não pode ser a inspiração da formulação e adequação das escolhas públicas), indispensável que o controle se desenvolva a partir de elementos objetivos – e isso exigirá uma dialética com as razões de decidir da Administração Pública, evidenciadas pelos estágios da aproximação deferente. (<xref ref-type="bibr" rid="B14">Lírio do Valle, 2020, p. 124</xref>)</p>
+      </disp-quote>
+      <p>Reforçando o argumento da deferência sob a perspectiva do dever de motivação substancial dos atos pela administração pública, leciona <xref ref-type="bibr" rid="B4">Bitencourt (2015)</xref> que:</p>
+      <disp-quote>
+        <p>a proporcionalidade é a porta de entrada ao controle jurisdicional das políticas públicas, que é justamente [a] motivação dos atos administrativos. Isso, pois, a teoria contemporânea tem se inclinado a considerar a necessidade de motivação substancial, que prevê a existência de pressupostos reais e de motivos corretos capazes de fundamentar uma decisão e torná-la legítima sob este aspecto, fazendo, assim, uma recondução do decidido a um parâmetro valorativo capaz de justificá-lo em um caso concreto. (<xref ref-type="bibr" rid="B4">Bitencourt, 2015, p. 143</xref>)</p>
+      </disp-quote>
+      <p>Nesse contexto, afigura-se compreensível a adoção de uma postura de deferência como dispositivo para a resolução dos litígios, consideradas suas características policêntricas e multifacetadas, que exigem mecanismos além-jurídicos para a solução das controvérsias. A resolução de tais litígios, que comumente demandam a reestruturação a partir da elaboração de um plano aprovado pelo Judiciário ou levado a cabo pela administração extrajudicialmente, perante órgãos de controle, pressupõe uma postura dialógica e consensual por parte dos agentes envolvidos, seja na consideração das “consequências práticas” (<xref ref-type="bibr" rid="B6">Brasil, 2018, art. 20</xref>), “consequências jurídicas e administrativas”, “peculiaridades do caso” e “obstáculos e dificuldades reais do gestor” (<xref ref-type="bibr" rid="B6">Brasil, 2018, art. 21</xref>) das escolhas públicas, seja ainda pelo respeito à racionalidade das escolhas públicas quando inafastável do seu dever de motivação substancial.</p>
+    </sec>
+    <sec sec-type="conclusions">
+      <title>Considerações finais</title>
+      <p>Ao longo do presente artigo, buscou-se discutir acerca da postura de deferência entre os órgãos de controle e o Poder Judiciário perante a racionalidade das escolhas públicas pela administração, no contexto dos litígios de natureza estrutural.</p>
+      <p>Foram analisados os vetores consequencialistas inseridos na LINDB e o debate subjacente à adoção de tais mecanismos de interpretação, apontando-se as críticas doutrinárias e o debate prevalecente acerca do objetivo da norma em superar o paradigma do controle inafastável da ação do gestor, fundado na premissa da desconfiança prévia quanto ao momento da escolha pública, para uma análise <italic>ex post</italic>, em que se afere a sintonia da escolha pública com os mandamentos constitucionais.</p>
+      <p>No tópico seguinte, foram examinadas a proteção à confiança legítima e o dever de boa-fé objetiva oponível à administração pública como reforço à racionalidade administrativa nas escolhas públicas, concluindo-se que a proteção à confiança legítima dos cidadãos administrados funciona, a um só tempo, como requisito de legitimidade da escolha pública, como limitação à discricionariedade dos atos administrativos, e, ainda, como importante balizador dos limites da atividade de controle da administração pública.</p>
+      <p>No terceiro tópico, endereçou-se a questão acerca do cabimento da aplicação da deferência na resolução de litígios estruturais, analisando-se a premissa da deferência não somente pelo prisma dos órgãos de controle, mas sobremaneira, pelo dever de motivação substancial das escolhas públicas pela administração.</p>
+      <p>Do exame da bibliografia consultada e da interpretação dialética dos trabalhos, conclui-se que se afigura viável a postura de deferência entre os agentes de controle e a administração pública como recurso para a solução de litígios estruturais, seja pela própria natureza consensual da proposta de solução do litígio através da formulação e implementação de um plano, seja, ainda pelo fomentado modelo dialógico que orienta a atuação dos entes envolvidos.</p>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <title>Reconhecimentos</title>
+      <p>Não se aplica.</p>
+    </ack>
+    <ref-list>
+      <title>Referências</title>
+      <ref id="B1">
+        <mixed-citation>Anastasia, A. (2015). Apresentação. In F. H. U. Pereira (Org.), <italic>Segurança jurídica e qualidades das decisões públicas</italic> (pp. 5–6). Senado Federal.</mixed-citation>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Anastasia</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <year>2015</year>
+          <part-title>Apresentação</part-title>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Pereira</surname>
+              <given-names>F. H. U.</given-names>
+            </name>
+          </person-group>
+          <source>Segurança jurídica e qualidades das decisões públicas</source>
+          <fpage>5</fpage>
+          <lpage>6</lpage>
+          <publisher-name>Senado Federal</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="B2">
+        <mixed-citation>Ávila, H. (2021). <italic>Teoria da segurança jurídica</italic> (6ª ed.). Malheiros.</mixed-citation>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ávila</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <year>2021</year>
+          <source>Teoria da segurança jurídica</source>
+          <edition>6ª ed.</edition>
+          <publisher-name>Malheiros</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="B3">
+        <mixed-citation>Bertoncini, M. (2022). <italic>LINDB: Lei de Introdução às Normas do Direito Brasileiro: Constituição e as alterações implementadas pela Lei 13.655/2018</italic>. Juruá.</mixed-citation>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bertoncini</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <year>2022</year>
+          <source>LINDB: Lei de Introdução às Normas do Direito Brasileiro: Constituição e as alterações implementadas pela Lei 13.655/2018</source>
+          <publisher-name>Juruá</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="B4">
+        <mixed-citation>Bitencourt, C. M. (2015). Sobre o possível controle judicial de políticas públicas: Um olhar a partir do campo de conformação do legislador e do administrador. <italic>Revista Eurolatinoamericana de Derecho Administrativo</italic>, <italic>2</italic>(2), 143–166. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.14409/rr.v2i2.5168" xlink:title="DOI do artigo de Bitencourt (2015)">https://doi.org/10.14409/rr.v2i2.5168</ext-link></mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bitencourt</surname>
+              <given-names>C. M.</given-names>
+            </name>
+          </person-group>
+          <year>2015</year>
+          <article-title>Sobre o possível controle judicial de políticas públicas: Um olhar a partir do campo de conformação do legislador e do administrador</article-title>
+          <source>Revista Eurolatinoamericana de Derecho Administrativo</source>
+          <volume>2</volume>
+          <issue>2</issue>
+          <fpage>143</fpage>
+          <lpage>166</lpage>
+          <pub-id pub-id-type="doi">10.14409/rr.v2i2.5168</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5">
+        <mixed-citation>Bonacorsi de Palma, J. (2020). Segurança jurídica para a inovação pública: A nova Lei de Introdução às Normas do Direito Brasileiro (Lei nº 13.655/2018). <italic>Revista de Direito Administrativo</italic>, <italic>279</italic>(2), 209–249. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.12660/rda.v279.2020.82012" xlink:title="DOI do artigo de Bonacorsi de Palma (2020)">https://doi.org/10.12660/rda.v279.2020.82012</ext-link></mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bonacorsi de Palma</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <year>2020</year>
+          <article-title>Segurança jurídica para a inovação pública: A nova Lei de Introdução às Normas do Direito Brasileiro (Lei nº 13.655/2018)</article-title>
+          <source>Revista de Direito Administrativo</source>
+          <volume>279</volume>
+          <issue>2</issue>
+          <fpage>209</fpage>
+          <lpage>249</lpage>
+          <pub-id pub-id-type="doi">10.12660/rda.v279.2020.82012</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B6">
+        <mixed-citation>Brasil. (2018). <italic>Lei nº 13.655, de 25 de abril de 2018</italic>. Inclui no Decreto-Lei nº 4.657, de 4 de setembro de 1942 (Lei de Introdução às Normas do Direito Brasileiro), disposições sobre segurança jurídica e eficiência na criação e na aplicação do direito público. Presidência da República. <ext-link ext-link-type="uri" xlink:href="https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13655.htm" xlink:title="Lei nº 13.655/2018 no site do Planalto">https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13655.htm</ext-link></mixed-citation>
+        <element-citation publication-type="legal-doc">
+          <person-group person-group-type="author">
+            <collab>Brasil</collab>
+          </person-group>
+          <year>2018</year>
+          <source>Lei nº 13.655, de 25 de abril de 2018</source>
+          <comment>Inclui no Decreto-Lei nº 4.657, de 4 de setembro de 1942 (Lei de Introdução às Normas do Direito Brasileiro), disposições sobre segurança jurídica e eficiência na criação e na aplicação do direito público</comment>
+          <publisher-name>Presidência da República</publisher-name>
+          <ext-link ext-link-type="uri" xlink:href="https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13655.htm" xlink:title="Lei nº 13.655/2018 no site do Planalto">https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13655.htm</ext-link>
+        </element-citation>
+      </ref>
+      <ref id="B7">
+        <mixed-citation>Cardoso, H. R., &amp; Santos, M. L. F. (2023). A deferência judicial redimida. <italic>Revista de Direito Administrativo</italic>, <italic>282</italic>(1), 139–172. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.12660/rda.v282.2023.88639" xlink:title="DOI do artigo de Cardoso e Santos (2023)">https://doi.org/10.12660/rda.v282.2023.88639</ext-link></mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cardoso</surname>
+              <given-names>H. R.</given-names>
+            </name>
+            <name>
+              <surname>Santos</surname>
+              <given-names>M. L. F.</given-names>
+            </name>
+          </person-group>
+          <year>2023</year>
+          <article-title>A deferência judicial redimida</article-title>
+          <source>Revista de Direito Administrativo</source>
+          <volume>282</volume>
+          <issue>1</issue>
+          <fpage>139</fpage>
+          <lpage>172</lpage>
+          <pub-id pub-id-type="doi">10.12660/rda.v282.2023.88639</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B8">
+        <mixed-citation>Carvalho, C. F. (2016). Tutela da confiança nas relações administrativas: Incidência da boa-fé objetiva na atuação da administração pública. <italic>Revista Jurídica do Ministério Público</italic>, (10), 39–67.</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Carvalho</surname>
+              <given-names>C. F.</given-names>
+            </name>
+          </person-group>
+          <year>2016</year>
+          <article-title>Tutela da confiança nas relações administrativas: Incidência da boa-fé objetiva na atuação da administração pública</article-title>
+          <source>Revista Jurídica do Ministério Público</source>
+          <issue>10</issue>
+          <fpage>39</fpage>
+          <lpage>67</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B9">
+        <mixed-citation>Di Pietro, M. S. Z. (2009). Os princípios da proteção à confiança, da segurança jurídica e da boa-fé na anulação do ato administrativo. <italic>Fórum Administrativo</italic>, <italic>9</italic>, 155–166.</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Di Pietro</surname>
+              <given-names>M. S. Z.</given-names>
+            </name>
+          </person-group>
+          <year>2009</year>
+          <article-title>Os princípios da proteção à confiança, da segurança jurídica e da boa-fé na anulação do ato administrativo</article-title>
+          <source>Fórum Administrativo</source>
+          <volume>9</volume>
+          <fpage>155</fpage>
+          <lpage>166</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B10">
+        <mixed-citation>Di Pietro, M. S. Z. (2014). <italic>Direito administrativo</italic> (30ª ed.). Atlas.</mixed-citation>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Di Pietro</surname>
+              <given-names>M. S. Z.</given-names>
+            </name>
+          </person-group>
+          <year>2014</year>
+          <source>Direito administrativo</source>
+          <edition>30ª ed.</edition>
+          <publisher-name>Atlas</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="B11">
+        <mixed-citation>Gabardo, E., &amp; Souza, P. A. (2020). O consequencialismo e a LINDB: A cientificidade das previsões quanto às consequências práticas das decisões. <italic>Revista de Direito Administrativo &amp; Constitucional</italic>, <italic>20</italic>(81), 97–124. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.21056/aec.v20i81.1452" xlink:title="DOI do artigo de Gabardo e Souza (2020)">https://doi.org/10.21056/aec.v20i81.1452</ext-link></mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gabardo</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Souza</surname>
+              <given-names>P. A.</given-names>
+            </name>
+          </person-group>
+          <year>2020</year>
+          <article-title>O consequencialismo e a LINDB: A cientificidade das previsões quanto às consequências práticas das decisões</article-title>
+          <source>Revista de Direito Administrativo &amp; Constitucional</source>
+          <volume>20</volume>
+          <issue>81</issue>
+          <fpage>97</fpage>
+          <lpage>124</lpage>
+          <pub-id pub-id-type="doi">10.21056/aec.v20i81.1452</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B12">
+        <mixed-citation>Jordão, E. (2016). Entre o prêt-à-porter e a alta costura: Procedimentos de determinação da intensidade do controle judicial no direito comparado. <italic>Revista Brasileira de Direito Público</italic>, <italic>14</italic>(52), 9–43.</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jordão</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <year>2016</year>
+          <article-title>Entre o prêt-à-porter e a alta costura: Procedimentos de determinação da intensidade do controle judicial no direito comparado</article-title>
+          <source>Revista Brasileira de Direito Público</source>
+          <volume>14</volume>
+          <issue>52</issue>
+          <fpage>9</fpage>
+          <lpage>43</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B13">
+        <mixed-citation>Jordão, E. (2018). Art. 22 da LINDB – Acabou o romance: Reforço do pragmatismo no direito público brasileiro. <italic>Revista de Direito Administrativo</italic>, (esp.), 63–92. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.12660/rda.v0.2018.77650" xlink:title="DOI do artigo de Jordão (2018)">https://doi.org/10.12660/rda.v0.2018.77650</ext-link></mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jordão</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <article-title>Art. 22 da LINDB – Acabou o romance: Reforço do pragmatismo no direito público brasileiro</article-title>
+          <source>Revista de Direito Administrativo</source>
+          <issue>esp.</issue>
+          <fpage>63</fpage>
+          <lpage>92</lpage>
+          <pub-id pub-id-type="doi">10.12660/rda.v0.2018.77650</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B14">
+        <mixed-citation>Lírio do Valle, V. R. (2020). Deferência judicial para com as escolhas administrativas: Resgatando a objetividade como atributo do controle do poder. <italic>Direitos Fundamentais &amp; Democracia</italic>, <italic>25</italic>(1), 110–132. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.25192/issn.1982-0496.rdfd.v25i11577" xlink:title="DOI do artigo de Lírio do Valle (2020)">https://doi.org/10.25192/issn.1982-0496.rdfd.v25i11577</ext-link></mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lírio do Valle</surname>
+              <given-names>V. R.</given-names>
+            </name>
+          </person-group>
+          <year>2020</year>
+          <article-title>Deferência judicial para com as escolhas administrativas: Resgatando a objetividade como atributo do controle do poder</article-title>
+          <source>Direitos Fundamentais &amp; Democracia</source>
+          <volume>25</volume>
+          <issue>1</issue>
+          <fpage>110</fpage>
+          <lpage>132</lpage>
+          <pub-id pub-id-type="doi">10.25192/issn.1982-0496.rdfd.v25i11577</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B15">
+        <mixed-citation>Mendonça, J. V. S. (2014). A verdadeira mudança de paradigmas do direito administrativo brasileiro: Do estilo tradicional ao novo estilo. <italic>Revista de Direito Administrativo</italic>, <italic>265</italic>, 179–198. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.12660/rda.v265.2014.18916" xlink:title="DOI do artigo de Mendonça (2014)">https://doi.org/10.12660/rda.v265.2014.18916</ext-link></mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mendonça</surname>
+              <given-names>J. V. S.</given-names>
+            </name>
+          </person-group>
+          <year>2014</year>
+          <article-title>A verdadeira mudança de paradigmas do direito administrativo brasileiro: Do estilo tradicional ao novo estilo</article-title>
+          <source>Revista de Direito Administrativo</source>
+          <volume>265</volume>
+          <fpage>179</fpage>
+          <lpage>198</lpage>
+          <pub-id pub-id-type="doi">10.12660/rda.v265.2014.18916</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B16">
+        <mixed-citation>Mendonça, J. V. S. (2018). <italic>Direito constitucional econômico: A intervenção do Estado na economia à luz da razão pública e do pragmatismo</italic> (2ª ed.). Fórum.</mixed-citation>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mendonça</surname>
+              <given-names>J. V. S.</given-names>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <source>Direito constitucional econômico: A intervenção do Estado na economia à luz da razão pública e do pragmatismo</source>
+          <edition>2ª ed.</edition>
+          <publisher-name>Fórum</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="B17">
+        <mixed-citation>Modesto, P. (2024). <italic>Direito administrativo da experimentação: Inovação e pragmatismo na gestão pública</italic>. Juspodivm.</mixed-citation>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Modesto</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <year>2024</year>
+          <source>Direito administrativo da experimentação: Inovação e pragmatismo na gestão pública</source>
+          <publisher-name>Juspodivm</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="B18">
+        <mixed-citation>Nobre Júnior, E. P. (2002). <italic>O princípio da boa-fé e sua aplicação no direito administrativo brasileiro</italic>. Fabris.</mixed-citation>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nobre</surname>
+              <given-names>E. P.</given-names>
+              <suffix>Júnior</suffix>
+            </name>
+          </person-group>
+          <year>2002</year>
+          <source>O princípio da boa-fé e sua aplicação no direito administrativo brasileiro</source>
+          <publisher-name>Fabris</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="B19">
+        <mixed-citation>Quintiliano, L. D. (2018). Princípio da proteção da confiança: Fundamentos para limitação dos poderes constituídos na modificação de direitos sociais em tempo de crise. <italic>Revista da Faculdade de Direito</italic>, <italic>112</italic>, 133–162. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.11606/issn.2318-8235.v112i0p133-162" xlink:title="DOI do artigo de Quintiliano (2018)">https://doi.org/10.11606/issn.2318-8235.v112i0p133-162</ext-link></mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Quintiliano</surname>
+              <given-names>L. D.</given-names>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <article-title>Princípio da proteção da confiança: Fundamentos para limitação dos poderes constituídos na modificação de direitos sociais em tempo de crise</article-title>
+          <source>Revista da Faculdade de Direito</source>
+          <volume>112</volume>
+          <fpage>133</fpage>
+          <lpage>162</lpage>
+          <pub-id pub-id-type="doi">10.11606/issn.2318-8235.v112i0p133-162</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B20">
+        <mixed-citation>Sarlet, I. W. (2004). A eficácia do direito fundamental à segurança jurídica: Dignidade da pessoa humana, direitos fundamentais e proibição do retrocesso social no direito constitucional brasileiro. <italic>Revista de Direito Social</italic>, <italic>4</italic>(14), 9–49.</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sarlet</surname>
+              <given-names>I. W.</given-names>
+            </name>
+          </person-group>
+          <year>2004</year>
+          <article-title>A eficácia do direito fundamental à segurança jurídica: Dignidade da pessoa humana, direitos fundamentais e proibição do retrocesso social no direito constitucional brasileiro</article-title>
+          <source>Revista de Direito Social</source>
+          <volume>4</volume>
+          <issue>14</issue>
+          <fpage>9</fpage>
+          <lpage>49</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B21">
+        <mixed-citation>Silva, R. B. (2022). <italic>LINDB e deferência: Modo de usar</italic>. Lumen Juris.</mixed-citation>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Silva</surname>
+              <given-names>R. B.</given-names>
+            </name>
+          </person-group>
+          <year>2022</year>
+          <source>LINDB e deferência: Modo de usar</source>
+          <publisher-name>Lumen Juris</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="B22">
+        <mixed-citation>Sundfeld, C. A., &amp; Castro Neves, C. (2023). A nova LINDB e os movimentos de reforma do direito administrativo. <italic>Revista Brasileira de Estudos Políticos</italic>, <italic>126</italic>, 45–80. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.9732/2023.V126.1075" xlink:title="DOI do artigo de Sundfeld e Castro Neves (2023)">https://doi.org/10.9732/2023.V126.1075</ext-link></mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sundfeld</surname>
+              <given-names>C. A.</given-names>
+            </name>
+            <name>
+              <surname>Castro Neves</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <year>2023</year>
+          <article-title>A nova LINDB e os movimentos de reforma do direito administrativo</article-title>
+          <source>Revista Brasileira de Estudos Políticos</source>
+          <volume>126</volume>
+          <fpage>45</fpage>
+          <lpage>80</lpage>
+          <pub-id pub-id-type="doi">10.9732/2023.V126.1075</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B23">
+        <mixed-citation>Vitorelli, E. (2018). Levando os conceitos a sério: Processo estrutural, processo coletivo, processo estratégico e suas diferenças. <italic>Revista de Processo</italic>, <italic>284</italic>, 333–369.</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Vitorelli</surname>
+              <given-names>E.</given-names>
+            </name>
+          </person-group>
+          <year>2018</year>
+          <article-title>Levando os conceitos a sério: Processo estrutural, processo coletivo, processo estratégico e suas diferenças</article-title>
+          <source>Revista de Processo</source>
+          <volume>284</volume>
+          <fpage>333</fpage>
+          <lpage>369</lpage>
+        </element-citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="data-availability" specific-use="data-available">
+      <title>Disponibilidade de dados e material</title>
+      <p>Os dados utilizados na pesquisa estão disponíveis nas fontes informadas nas Referências.</p>
+    </sec>
+    <fn-group>
+      <fn fn-type="financial-disclosure">
+        <label>Financiamento</label>
+        <p>Não se aplica.</p>
+      </fn>
+      <fn fn-type="other">
+        <label>Aprovação ética</label>
+        <p>Não se aplica.</p>
+      </fn>
+    </fn-group>
+  </back>
+  <sub-article article-type="translation" id="S1" xml:lang="en">
+    <front-stub>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Articles</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Deference as a premise to structural solutions: an analysis based on law of introduction to the norms of Brazilian law (LINDB) and the principle of trust protection</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid">0000-0001-7343-2718</contrib-id>
+          <name>
+            <surname>Carvalho</surname>
+            <given-names>Camyla Figueiredo de</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">1</xref>
+          <role content-type="https://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role>
+          <role content-type="https://credit.niso.org/contributor-roles/writing-original-draft/">Writing – original draft</role>
+          <role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing – review &amp; editing</role>
+          <bio>
+            <p>State Prosecutor for the State Public Prosecutor’s Office of Rondônia. Master’s degree in Law from the Catholic University of Rondônia (FCR). Bachelor’s degree in Law from the Federal University of Paraíba (UFPB). Specialist in Administrative Law and Public Management. Specialist in the Prevention and Prosecution of Corruption: Theoretical and Practical Aspects. Member of the Rondônia Institute of Administrative Law (IRDA). Professor of Anti-Discrimination Law at the Higher School of the Rondônia Public Prosecutor’s Office (EMPRO).</p>
+          </bio>
+        </contrib>
+      </contrib-group>
+      <aff id="aff2">
+        <label>1</label>
+        <institution content-type="orgname">State Public Prosecutor’s Office of Rondônia</institution>
+        <addr-line>
+          <city>Porto Velho</city>
+          <state>Rondônia</state>
+        </addr-line>
+        <country country="BR">Brazil</country>
+        <institution content-type="original">State Public Prosecutor’s Office of Rondônia (MPRO), Porto Velho – Rondônia (RO) – Brazil</institution>
+      </aff>
+      <author-notes>
+        <fn fn-type="edited-by">
+          <label>Editor-in-Chief:</label>
+          <p>Me. Edna Antônia Capeli da Silva Oliveira</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <label>Associate Editor:</label>
+          <p>Me. Luciana Adélia Sottili</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <label>Executive Editor:</label>
+          <p>Me. Giselle Araújo Gadotti</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <label>Deputy Executive Editor:</label>
+          <p>Prof. Dr. José Anderson Santos Cruz</p>
+        </fn>
+        <fn fn-type="coi-statement">
+          <label>Conflicts of interest</label>
+          <p>There are no conflicts of interest.</p>
+        </fn>
+        <fn fn-type="other">
+          <label>Authors’ contributions</label>
+          <p>Sole authorship.</p>
+        </fn>
+      </author-notes>
+      <abstract>
+        <title>Abstract</title>
+        <p>This article examines the resolution of structural disputes from the perspective of its premises, notably the deference of oversight bodies and the judiciary to the public choices of the manager when conducting negotiations and consensual solutions. The objective is to analyze the adoption of consequentialist vectors through the amendment promoted in the Law of Introduction to the Norms of Brazilian Law (LINDB), notably in articles 20 to 22, and to investigate whether the deferential stance of oversight bodies toward the public administration corroborates the principles that guide the structural process, and whether it is legitimate as a dialogical resolution of collective disputes and as a foundation of the burden of argument for the actors in the structural process, within the due limits of legal interpretation. The proposition will be developed based on the descriptive method, based on direct bibliographic analysis. The conclusion is that a deferential stance between control agents and public administration appears viable as a resource for resolving structural disputes, either due to the consensual nature of the proposed dispute resolution through the formulation and implementation of a plan, or due to the promoted dialogic model that guides the actions of the entities involved.</p>
+      </abstract>
+      <kwd-group xml:lang="en">
+        <title>Keywords</title>
+        <kwd>Legal certainty</kwd>
+        <kwd>Objective good faith</kwd>
+        <kwd>Institutional control</kwd>
+        <kwd>Public policies</kwd>
+        <kwd>Collective process</kwd>
+      </kwd-group>
+      <funding-group>
+        <funding-statement>Not applicable.</funding-statement>
+      </funding-group>
+    </front-stub>
+    <body>
+      <sec sec-type="intro">
+        <title>Introduction</title>
+        <p>Since the enactment of Law No. 13,655/2018, which amended the Law of Introduction to the Norms of Brazilian Law (LINDB) by inserting ten new articles that guide interpretation and decision-making in the administrative, oversight, or judicial spheres (<xref ref-type="bibr" rid="B6">Brasil, 2018</xref>), the adoption of consequentialism in Brazilian public administration has become increasingly central to the debate in administrative law. This understanding is embodied in the vectors of practical consequences, administrative circumstances, the actual obstacles and difficulties faced by public managers, and the requirements of public policies as grounds to be considered in the interpretation of public choices by oversight bodies and the Judiciary.</p>
+        <p>In the context of the legislative discussion, it was argued that oversight of public administration—despite its social relevance and significant returns in terms of curbing arbitrariness and protecting fundamental rights—had assumed an untimely leading role in the primary interpretation of legal rules, supplanting the will of administrators and reducing the Executive’s scope for action.</p>
+        <p>Indeed, the typical relationship between oversight bodies, the Judiciary, and public administration, notably in supervising the implementation of public policies, was traditionally characterized by the direction of public managers’ choices, with reports of possible constraints on administrative activity not being uncommon, commonly referred to in legal scholarship as the ill-fated ‘blackout of the pens’.</p>
+        <p>Added to this argument was that of the broad reviewability of public choices based on the axiological weight of constitutional precepts, granting the Judiciary legitimacy to undertake extensive review of public choices, crossing, in legal scholarship, the traditional boundaries of convenience and opportunity typical of discretionary administrative acts.</p>
+        <p>This paper aims to analyze the adoption of consequentialist vectors through the amendment to the Law of Introduction to the Norms of Brazilian Law (LINDB), notably in Articles 20 to 22, and to investigate whether a deferential stance by oversight bodies toward public administration corroborates the principles guiding structural proceedings, and whether it is legitimate as a dialogical solution to collective disputes and as a basis for an argumentative burden on the actors in structural proceedings, within the proper limits of legal interpretation. It intends to address deference to public choices within the limits of consequentialist logic and to contextualize the deferential stance in relation to the resolution of structural disputes.</p>
+        <p>The hypothesis presented is that characterizing a dispute as structural seems to denote – beyond the commonly observed substantive complexity of the claim and multiplicity of actors involved – an institutional dialogical opening between the branches of government.</p>
+        <p>The first section analyzes the consequentialist vectors inserted into the LINDB and the debate underlying the adoption of these interpretive mechanisms. The second section examines the protection of legitimate expectations and the duty of objective good faith enforceable against public administration as a reinforcement of administrative rationality in public choices, before, finally, in the third section, examining institutional deference by oversight bodies and the Judiciary toward public administration as a resource for resolving structural disputes.</p>
+      </sec>
+      <sec>
+        <title>Consequentialism in the LINDB: Pragmatism as institutional balance between the branches of government</title>
+        <p>The understanding that the legislative amendment introduced into the LINDB through Law No. 13,655/2018 represented the adoption of consequentialist criteria in the interpretation of public acts and choices, whether in the administrative sphere, in oversight activity, or in the interpretation undertaken by the Judiciary, seems to be moving toward a consensus in legal scholarship.</p>
+        <p>The adoption of criteria such as “practical consequences” (<xref ref-type="bibr" rid="B6">Brasil, 2018, art. 20</xref>), “legal and administrative consequences,” “peculiarities of the case” (<xref ref-type="bibr" rid="B6">Brasil, 2018, art. 21</xref>), and “actual obstacles and difficulties faced by public managers” (<xref ref-type="bibr" rid="B6">Brasil, 2018, art. 22</xref>) repeatedly expresses the legislator’s concern with establishing interpretive parameters for the exercise of oversight and the interpretation of administrative acts, with the manifest objective of “introducing a good dose of pragmatism and contextualization into the interpretation and operation of public law rules” (<xref ref-type="bibr" rid="B13">Jordão, 2018, p. 63</xref>).</p>
+        <p>In what he called the “pragmatist turn” in administrative law, <xref ref-type="bibr" rid="B15">Mendonça (2014)</xref> argues that:</p>
+        <disp-quote>
+          <p>The new style of Administrative Law has, like the old one, four basic characteristics. It is (i) close to American methods, (ii) pragmatist and empiricist, (iii) opposed to systematization and unsystematic, and (iv) skeptical of the centrality of Law as a key to interpreting economic, political, and social life. (<xref ref-type="bibr" rid="B15">Mendonça, 2014, p. 179</xref>)</p>
+        </disp-quote>
+        <p>In this context, legal consequentialism, as a theory of judicial decision-making, is characterized by the use of the consequences of the specific case as argumentative reinforcement for the legitimacy of oversight of public administration. That is to say, the consideration of practical circumstances possesses a degree of normativity capable of grounding decisions, and its premises were expressly inserted into the ten new provisions added to the LINDB with the advent of Law No. 13,655/2018.</p>
+        <p>Based on this pragmatic premise for interpreting public choices, the following are identified as the presuppositions of the new LINDB:</p>
+        <disp-quote>
+          <p>(i) public administration interprets and its interpretation carries weight; (ii) trust in honest public managers to innovate in public management; (iii) greater legal certainty for managers, citizens, and overseers; (iv) the quality of public decisions can be better, favoring legal certainty. (<xref ref-type="bibr" rid="B5">Bonacorsi de Palma, 2020, p. 209</xref>)</p>
+        </disp-quote>
+        <p>And <xref ref-type="bibr" rid="B5">Bonacorsi de Palma (2020)</xref> continues:</p>
+        <disp-quote>
+          <p>In practice, the duty to consider the actual obstacles and difficulties faced by public managers and the requirements of public policies is a command to sensitize overseers to the reality of Brazilian public bureaucracy: these factual elements should not be ignored, but encompassed within legal hermeneutics, which is not pure. This point is particularly relevant when we consider that public administration is the main State institution responsible for guaranteeing fundamental rights. More than any other State institution, it is the administration that interacts directly with citizens and, through the provision of public services, implements the public policies under its responsibility. (<xref ref-type="bibr" rid="B5">Bonacorsi de Palma, 2020, p. 232</xref>)</p>
+        </disp-quote>
+        <p>The recurring argument of a considerable portion of legal scholarship that appears as a corollary of the consequentialist foundations inserted into the LINDB is legal certainty, which “ceases to be a mere requirement of predetermination and comes to embody a duty of rational and argumentative control of Law” (<xref ref-type="bibr" rid="B2">Ávila, 2021, p. 273</xref>).</p>
+        <p>The legislator’s concern in inserting the new provisions would lie in the fact,</p>
+        <disp-quote>
+          <p>empirically established, that the overseer often assumes administrative authority. The shift of authority from the administrative sphere to the oversight sphere entails not only the transfer of decision-making powers and their prerogatives, but also of all the constraints incumbent upon public managers. (<xref ref-type="bibr" rid="B5">Bonacorsi de Palma, 2020, p. 232</xref>)</p>
+        </disp-quote>
+        <p><xref ref-type="bibr" rid="B13">Jordão (2018)</xref> adds another layer to the debate by arguing that the legislative amendment deepens the scholarly view of the indeterminacy of Law as the only legitimate form of social control and problem-solving:</p>
+        <disp-quote>
+          <p>This overvaluation of law (as a technique for or an inventory of solutions to various social problems) favors law graduates insofar as it empowers them. After all, they position themselves as oracles, capable of unveiling the hidden and specific determination of the legal system, from which no one could lawfully depart. But it is socially problematic because it rules out equally possible solutions under another reasonable reading of the law, as well as minimizing the input that other, nonlegal expertise can provide for the better application of legal rules. … Since, despite theory to the contrary, the law is often indeterminate, it is not uncommon for oversight bodies to have interpretations different from those of administrators as to the specific solution to be adopted in a given case. And, based on this idealized and unrealistic theory, even if the administration’s interpretation was reasonable, they believe there is room for annulments, suspensions, punishments, and repression. (<xref ref-type="bibr" rid="B13">Jordão, 2018, p. 67</xref>)</p>
+        </disp-quote>
+        <p>On the other hand, part of the criticism of the consequentialism inserted into the LINDB lies in the question of the legitimacy of this very use of practical consequences as grounds for decisions. The critical segment</p>
+        <disp-quote>
+          <p>emphasizes that arguments based on consequences appear “disguised within formal and normative arguments” and attributes this phenomenon to the “prejudice” of legal practitioners and society, who believe that the judge’s role is to apply the law, rather than to operate with outcomes. (<xref ref-type="bibr" rid="B16">Mendonça, 2018, pp. 31–32</xref>)</p>
+        </disp-quote>
+        <p>On this point, <xref ref-type="bibr" rid="B11">Gabardo and Souza (2020)</xref>, presenting Ronald Dworkin’s perspective and the philosophical premises of Jacques de Mouel’s <italic>Critique de l’efficacité,</italic> explain that:</p>
+        <disp-quote>
+          <p>the author opposes the pragmatic idea that “what is effective is equivalent to what is true,” because this perception of reality: 1. cannot work with complexity, 2. privileges action over knowledge, 3. rejects the contradictions of the system, and 4. avoids the important question “why?”. (<xref ref-type="bibr" rid="B11">Gabardo &amp; Souza, 2020, p. 107</xref>)</p>
+        </disp-quote>
+        <p>And, as an example, <xref ref-type="bibr" rid="B11">Gabardo and Souza (2020)</xref> illustrate:</p>
+        <disp-quote>
+          <p>In Brazil, one of the most recent examples of a pragmatic public policy that ultimately imposes a simplistic worldview based on an economic perspective is the spending cap established by Constitutional Amendment No. 95/2016.39 Under the command of pragmatic reasoning, an action contrary to the principles of Constitutional Law in force is adopted – creating a dissonance within the legal system (not checked by the Judiciary, which increasingly comes to accept this mechanism of action by Public Authorities precisely through the lens of considering consequences rather than the integrity of the system). (<xref ref-type="bibr" rid="B11">Gabardo &amp; Souza, 2020, p. 107</xref>)</p>
+        </disp-quote>
+        <p>Still criticizing the amendments made to the LINDB, from the perspective of oversight bodies, <xref ref-type="bibr" rid="B3">Bertoncini (2022)</xref> points out:</p>
+        <disp-quote>
+          <p>the effective exercise of oversight of Public Administration acts by the competent bodies can produce changes in legal transactions through total or partial invalidation or rectification. No administrative act or contract is endowed with an absolute presumption of legality. To this extent, risk and relative instability are inherent in any system, whether because a defect or flaw actually exists and is declared, or also, why not say so, because of a diagnostic error by oversight agents, a risk inherent in human nature, present not only in the Brazilian system of legality review. The problem lies in understanding error as a constant in oversight activity, as if dysfunctional oversight were the absolute rule, an evidently false premise, just as the notion that public administrators never err is false. (<xref ref-type="bibr" rid="B3">Bertoncini, 2022</xref>)</p>
+        </disp-quote>
+        <p>On the other hand, the understanding of the majority of administrative law scholarship seems to prevail, addressing the debate about the alleged absence of objective reference points for oversight of public administration and identifying as a traditional bias of oversight mechanisms a “rhetoric of disqualifying the administrative strategies chosen, deemed a priori inappropriate because of their formulators’ lack of preparation or party-political contamination” (<xref ref-type="bibr" rid="B14">Lírio do Valle, 2020, p. 110</xref>).</p>
+        <p>The LINDB moved toward overcoming the paradigm of unavoidable oversight of public managers’ actions, founded on the premise of prior <italic>distrust</italic> at the moment of public choice, in favor of an <italic>ex post</italic> analysis in which the alignment of public choices with constitutional commands is assessed.</p>
+        <p>Regarding the parameter of public oversight that was to be overcome, <xref ref-type="bibr" rid="B17">Modesto (2024)</xref> points out:</p>
+        <disp-quote>
+          <p>The paradigm of culpable action or omission as a general cause of harm presents other inaccuracies and drawbacks as well. Oversight activity is perceived as an activity of restoration. The aim is to restore the <italic>status quo ante</italic>, the virtuous order preceding the disruptive interference of the culpable or deliberate action of the responsible agents. Oversight takes on expiatory and repressive features, directing its attention to the past and to sanctioning the guilty, without realizing that a return to the past is often impossible or highly costly. This indifference to cost is also another hallmark of the almost religious paradigm of atonement for guilt: neither the cost of oversight nor its impact on the social chain is assessed. What matters is the exemplary character of the sanction for error, its educational effect, regardless of the costs embedded in oversight solutions. (<xref ref-type="bibr" rid="B17">Modesto, 2024, pp. 169–170</xref>)</p>
+        </disp-quote>
+        <p>The general guidance conveyed as early as the bill that amended the LINDB was to “consolidate and improve existing public regulations and oversight and, at the same time, protect people, organizations, and civil servants against uncertainties, risks, and unjust costs. This is not a matter only for legal professionals, but for society as a whole” (<xref ref-type="bibr" rid="B1">Anastasia, 2015, p. 5</xref>).</p>
+        <p>Still on the debate underlying the adoption of the consequentialism inserted into the LINDB, <xref ref-type="bibr" rid="B21">Rafael Barreto da Silva (2022)</xref> explains:</p>
+        <disp-quote>
+          <p>Faced with a scenario of imbalance, it was necessary to present a legislative response to balance the relationship between overseer and overseen, so that the stronger side would bear a greater burden to make the competition less unequal. The idea of Carlos Ari Sundfeld, devised together with Floriano de Azevedo Marques Neto, was to insert into the LINDB rules capable of making “the actions of managers and private partners safer, without compromising the efficiency of administrative activity and the role of public oversight.” The LINDB would be the appropriate place because it is a “compass law,” a type of legislation that defines how the entire legal system operates and would be able to accommodate provisions functioning as a “general part” of public law without losing its nature. (<xref ref-type="bibr" rid="B21">Silva, 2022, p. 140</xref>)</p>
+        </disp-quote>
+        <p>In the context of the consequentialist solution proposed by the LINDB, <xref ref-type="bibr" rid="B22">Sundfeld and Castro Neves (2023)</xref> argue that the law</p>
+        <disp-quote>
+          <p>... requires legal overseers to pay special attention both to the proper domain of public policies and affairs and to the concrete reality of administration. It also seeks to prevent the application of idealized solutions that would already be preconceived by Law and would then merely be identified in specific cases. (<xref ref-type="bibr" rid="B22">Sundfeld &amp; Castro Neves, 2023, p. 67</xref>)</p>
+        </disp-quote>
+        <p>Along the same lines, <xref ref-type="bibr" rid="B5">Bonacorsi de Palma (2020)</xref> argues:</p>
+        <disp-quote>
+          <p>The new LINDB moves beyond the question I raise – the domains of administration and oversight – to focus on the final result: coherence, transparency, and a greater flow of information so that public actions are more predictable and stable. Hence the great emphasis on enhanced reason-giving. The burdens of justification are not constraints on overseers, but rather answers that must be provided according to the type of decision to be made – by whomever, administration or overseer. These are burdens that enable institutional dialogue and concrete responses through adjustments in behavior, regulatory amendments, review of acts, procedures, and contracts, etc. (<xref ref-type="bibr" rid="B5">Bonacorsi de Palma, 2020, p. 245</xref>)</p>
+        </disp-quote>
+        <p>The arguments of institutional balance and legal certainty seem broadly to guide the scholarly debate, which is founded on the premises of legal certainty and on the imperative of “decision-making comfort” for public managers who are presumed to act in good faith.</p>
+        <p>The next section deepens the analysis of legal certainty and the protection of the expectations of citizens subject to administration as guidelines for the amendment made to the LINDB.</p>
+      </sec>
+      <sec>
+        <title>Protection of legitimate expectations and good faith as criteria for valuing public choices</title>
+        <p>Legal certainty traditionally occupies a prominent position, whether in legal scholarship, in the legislator’s concerns, or in the practical aspirations of State agents and citizens subject to administration. In the words of <xref ref-type="bibr" rid="B20">Sarlet (2004)</xref>:</p>
+        <disp-quote>
+          <p>taking legal certainty seriously entails analyzing all its dimensions, which includes not only an understanding of the meaning and content of the right to legal certainty, but also encompasses the problem of its efficacy and effectiveness. (<xref ref-type="bibr" rid="B20">Sarlet, 2004, p. 10</xref>)</p>
+        </disp-quote>
+        <p>In the field of the dimensions of legal certainty, <xref ref-type="bibr" rid="B19">Quintiliano (2018)</xref>, citing Canotilho, argues that:</p>
+        <disp-quote>
+          <p>the principle of the Rule of Law, given substance by legal certainty and legal trust, reinforces the coexistence of two elements: an objective one concerning the legal order, related to its durability and legal and social peace; and another that is protective and subjective, safeguarding expectations that legal situations will endure. (<xref ref-type="bibr" rid="B19">Quintiliano, 2018, p. 133</xref>)</p>
+        </disp-quote>
+        <p>Outlining the concept of the principle of protection of legitimate expectations and its objectives, <xref ref-type="bibr" rid="B9">Di Pietro (2009)</xref> explains:</p>
+        <disp-quote>
+          <p>The principle of protection of legitimate expectations protects the good faith of those subject to administration; in other words, the trust that is protected is that which private individuals place in the Administration. Private individuals trust that the Administration’s conduct is correct, in accordance with statute and law. Hence the possibility of maintaining unlawful acts or regulating the past effects of invalid acts. (<xref ref-type="bibr" rid="B9">Di Pietro, 2009, p. 155</xref>)</p>
+        </disp-quote>
+        <p>And, in another work, the same legal scholar elaborates:</p>
+        <disp-quote>
+          <p>Legal certainty is closely related to the idea of respect for good faith. If the Administration adopted a given interpretation as correct and applied it to specific cases, it cannot subsequently annul previous acts on the pretext that they were performed on the basis of an erroneous interpretation. If a person subject to administration had a certain right recognized on the basis of an interpretation uniformly adopted throughout the Administration, it is clear that their good faith must be respected. If the law must respect acquired rights, perfected legal acts, and res judicata out of respect for the principle of legal certainty, it is inadmissible for the rights of those subject to administration to fluctuate at the whim of legal interpretations that vary over time. (<xref ref-type="bibr" rid="B10">Di Pietro, 2014, p. 234</xref>)</p>
+        </disp-quote>
+        <p>In this context, the analysis of objective good faith emerges as a criterion equally enforceable against public administration, as a factor in the legitimacy of public managers’ choices. Legal scholarship distinguishes objective good faith, as a rule of conduct and a guiding criterion for the interpretation and supplementation of legal relationships, from subjective good faith, as the psychological state of a subject who assumes that they are acting in accordance with the rules of the legal system, whose conscience and mental reservation are statically aligned with ethics.</p>
+        <p>The examination of these concepts has already been the subject of our analysis:</p>
+        <disp-quote>
+          <p>Objective good faith can be understood as a standard of proper conduct and, in this sense, bears no relation to the inner sphere of individuals. It develops dynamically and is external to the subject, and can be legally assessed and, if disregarded, serve as a parameter for the civil liability of the defaulting party, since its content generates secondary duties of conduct that impose necessary behaviors on the parties, even when not expressly provided for in the transactional instrument. It relates less to the subjects’ sphere of consciousness than to an objective duty to maintain the balance of the transaction between the parties. (<xref ref-type="bibr" rid="B8">Carvalho, 2016, p. 47</xref>)</p>
+        </disp-quote>
+        <p>From everything produced in legal scholarship on the topic, it seems natural to require public administration to comply with the general clause of objective good faith as a rule of legitimacy for its acts, whether internal or, all the more so, in legal relationships with private parties, since “it seems difficult to consider the State exempt from the obligation to respect a basic principle of law and morality, such as good faith, because the mere fact that the Administration pursues the common good does not authorize it to seek to escape this limit” (<xref ref-type="bibr" rid="B18">Nobre Júnior, 2002</xref>).</p>
+        <p>Elucidating the paradigm of the legitimacy of public choices based on constitutional commands, <xref ref-type="bibr" rid="B14">Lírio do Valle (2020)</xref> explains:</p>
+        <disp-quote>
+          <p>Under the aegis of the 1988 Constitution, the mark of legitimacy of State action comes to rest on the alignment between its conduct and the constitutional purposes set for it. The point at which alignment with the substantive dimension of democracy – and therefore the legitimacy of State action – is assessed shifts from the very moment of formulating the public choice, when its author was identified, to the subsequent moment, when its alignment with constitutional purposes is assessed both in its abstract conception and in its concrete implementation. Public choices are legitimized by their results (Moreira Neto, 2006); therefore, the criterion no longer accommodates a purely formal model that is satisfied with the presence of Public Administration as the subject. On the contrary, the introduction of the substantive element into the exercise of oversight of power by any of the structures entrusted with it is imperative. (<xref ref-type="bibr" rid="B14">Lírio do Valle, 2020, p. 115</xref>)</p>
+        </disp-quote>
+        <p>In this context, in which it is proposed to move beyond the traditional model of oversight of State action—from the very moment of formulating a public choice to its alignment with constitutional purposes—the debate about the legislative option inserted into the LINDB arises once again.</p>
+        <p>Referring to Law No. 13,655/18 as the “Legal Certainty Law,” <xref ref-type="bibr" rid="B5">Bonacorsi de Palma (2020)</xref> argues:</p>
+        <disp-quote>
+          <p>Article 20, Article 21, and Article 22 of the Legal Certainty Law should be read as tests of deference. If, when faced with a public service concession, the overseer cannot expressly indicate its legal and administrative consequences or cannot indicate the conditions for regularization to occur in a proportionate, equitable manner and without detriment to general interests, then they should not invalidate it, seek its invalidation, or enter into a conduct adjustment agreement. If the overseer cannot fulfill the argumentative burdens, the administrative interpretation deserves deference and the administrative action must be preserved. (<xref ref-type="bibr" rid="B5">Bonacorsi de Palma, 2020, p. 232</xref>)</p>
+        </disp-quote>
+        <p>In this sense, protecting the legitimate expectations of citizens subject to administration functions simultaneously as a requirement for the legitimacy of public choices, as a limitation on the discretion of administrative acts, and as an important parameter for the limits of oversight of public administration.</p>
+        <p>The next section examines the dialogical exercise of supervising public policies and institutional deference by oversight bodies and the Judiciary toward public administration from the perspective of structural disputes.</p>
+      </sec>
+      <sec>
+        <title>A deferential stance toward public choices as a mechanism for resolving structural disputes</title>
+        <p>Based on the analysis of the consequentialist characteristics inserted into the LINDB and the prominence of legal certainty and the protection of legitimate expectations as vectors of legitimacy for public choices, this section suggests that characterizing a dispute as structural—beyond the substantive complexity of the claim and multiplicity of actors involved—may likewise bring about an institutional dialogical opening between the branches of government.</p>
+        <p>The debate falls within the study of collective proceedings, whose contentiousness and complexity make the form of relief sought equally multifaceted. In the words of <xref ref-type="bibr" rid="B23">Vitorelli (2018)</xref>, the analysis of complex disputes</p>
+        <disp-quote>
+          <p>departs significantly from the lawful-unlawful binary and inevitably approaches considerations that depend on political and economic <italic>inputs</italic> and those from other fields of knowledge. The problems are polycentric and their solution is not preestablished in law, which creates major difficulties for judicial action. (<xref ref-type="bibr" rid="B23">Vitorelli, 2018, pp. 335–336</xref>)</p>
+        </disp-quote>
+        <p>In this context,</p>
+        <disp-quote>
+          <p>it is frequently suggested that the intensity of court intervention should be modulated according to the nature of the administrative decisions under review: legal issues would deserve more intense review; technical or political issues would call for judicial deference. The underlying idea is that the intensity of judicial review should adapt to the characteristics of the administrative decision under review or of the administrative authority that issued it. (<xref ref-type="bibr" rid="B12">Jordão, 2016, p. 9</xref>)</p>
+        </disp-quote>
+        <p>In a proposal for the form of oversight under a deferential stance, <xref ref-type="bibr" rid="B7">Cardoso and Santos (2023)</xref> point out:</p>
+        <disp-quote>
+          <p>Rather than imposing, in the case, the legal reading and interpretation they themselves would adopt in this context of indeterminacy, the overseer should consider the existence of a margin of reasonableness, or a range of reasonable interpretations, that is, they should limit themselves to assessing the reasonableness of the interpretive choice made by the public administrator, deferring to the administration’s reasonable interpretive choice, even if it does not correspond to the specific interpretive choice they themselves (the overseer) would make if it fell to them to interpret the matter firsthand. (<xref ref-type="bibr" rid="B7">Cardoso &amp; Santos, 2023, p. 139</xref>)</p>
+        </disp-quote>
+        <p>Assessing these premises as mechanisms for resolving structural disputes requires an analysis of the concept of the latter. On this point, <xref ref-type="bibr" rid="B23">Vitorelli (2018)</xref> explains:</p>
+        <disp-quote>
+          <p>Structural disputes are collective disputes arising from the way a bureaucratic structure, usually public in nature, operates. It is the functioning of the structure that causes, allows, or perpetuates the violation giving rise to the collective dispute. Thus, if the violation is merely removed, the problem may be resolved only apparently, without empirically significant results, or momentarily, recurring in the future. ... every structural dispute is a radiating collective dispute. This is because structural disputes take place in the context of a violation that affects different social subgroups, with varying intensities and in different ways, affecting the interests of these subgroups differently, without any shared social perspective among them. Part of the group may even benefit from maintaining the post-violation status and oppose society’s claim. This is why structural disputes are polycentric and do not fit adequately within the traditional procedural framework. (<xref ref-type="bibr" rid="B23">Vitorelli, 2018, p. 333</xref>)</p>
+        </disp-quote>
+        <p>It is precisely in the polycentric character of structural disputes that institutional dialogical space opens up for reformulating the structure that causes, or is in some way responsible for, the violation giving rise to the dispute.</p>
+        <p>Thus, when what is under analysis is the restructuring of a public or private mechanism that represents a violation of the attainment of constitutional purposes for the benefit of citizens subject to administration, a stance of deference by oversight bodies toward public choices preceded by public managers’ unavoidable duty to plan is justified.</p>
+        <p>In this sense, <xref ref-type="bibr" rid="B14">Lírio do Valle (2020)</xref> argues that:</p>
+        <disp-quote>
+          <p>if everything develops from rational argumentation (and no other inspiration can guide the formulation and adjustment of public choices), it is essential for oversight to develop from objective elements – and this will require a dialectical engagement with the Public Administration’s reasons for deciding, evidenced by the stages of the deferential approach. (<xref ref-type="bibr" rid="B14">Lírio do Valle, 2020, p. 124</xref>)</p>
+        </disp-quote>
+        <p>Reinforcing the argument for deference from the perspective of public administration’s duty to provide substantive reasons for its acts, <xref ref-type="bibr" rid="B4">Bitencourt (2015)</xref> explains that:</p>
+        <disp-quote>
+          <p>proportionality is the gateway to judicial review of public policies, which is precisely [the] statement of reasons for administrative acts. This is because contemporary theory has tended to consider the need for substantive reason-giving, which provides for the existence of actual presuppositions and correct reasons capable of grounding a decision and making it legitimate in this respect, thus bringing what has been decided back to an evaluative parameter capable of justifying it in a specific case. (<xref ref-type="bibr" rid="B4">Bitencourt, 2015, p. 143</xref>)</p>
+        </disp-quote>
+        <p>In this context, the adoption of a deferential stance as a mechanism for resolving disputes appears understandable, considering their polycentric and multifaceted characteristics, which require mechanisms beyond the legal sphere to resolve controversies. The resolution of these disputes, which commonly require restructuring through the preparation of a plan approved by the Judiciary or carried out extrajudicially by the administration before oversight bodies, presupposes a dialogical and consensual stance on the part of the actors involved, whether in considering the “practical consequences” (<xref ref-type="bibr" rid="B6">Brasil, 2018, art. 20</xref>), “legal and administrative consequences,” “peculiarities of the case,” and “actual obstacles and difficulties faced by public managers” (<xref ref-type="bibr" rid="B6">Brasil, 2018, art. 21</xref>) of public choices, or in respecting the rationality of public choices when inseparable from their duty to provide substantive reasons.</p>
+      </sec>
+      <sec sec-type="conclusions">
+        <title>Final considerations</title>
+        <p>Throughout this article, we sought to discuss the deferential stance of oversight bodies and the Judiciary toward the rationality of public choices made by the administration, in the context of disputes of a structural nature.</p>
+        <p>The consequentialist vectors inserted into the LINDB and the debate underlying the adoption of these interpretive mechanisms were analyzed, identifying criticisms in legal scholarship and the prevailing debate about the rule’s objective of overcoming the paradigm of unavoidable oversight of public managers’ actions, founded on the premise of prior distrust at the moment of public choice, in favor of an <italic>ex post</italic> analysis in which the alignment of public choices with constitutional commands is assessed.</p>
+        <p>The following section examined the protection of legitimate expectations and the duty of objective good faith enforceable against public administration as a reinforcement of administrative rationality in public choices, concluding that protecting the legitimate expectations of citizens subject to administration functions simultaneously as a requirement for the legitimacy of public choices, as a limitation on the discretion of administrative acts, and as an important parameter for the limits of oversight of public administration.</p>
+        <p>The third section addressed the question of the appropriateness of applying deference in resolving structural disputes, analyzing the premise of deference not only from the perspective of oversight bodies, but above all through the administration’s duty to provide substantive reasons for public choices.</p>
+        <p>From the examination of the bibliography consulted and the dialectical interpretation of the works, it is concluded that a deferential stance between oversight agents and public administration appears viable as a resource for resolving structural disputes, whether due to the very consensual nature of the proposed resolution of the dispute through the formulation and implementation of a plan, or due to the encouraged dialogical model that guides the actions of the entities involved.</p>
+      </sec>
+    </body>
+    <back>
+      <ack>
+        <title>Acknowledgments</title>
+        <p>Not applicable.</p>
+      </ack>
+      <sec sec-type="data-availability" specific-use="data-available">
+        <title>Data and materials availability</title>
+        <p>The data used in the research are available in the sources listed in the References.</p>
+      </sec>
+      <fn-group>
+        <fn fn-type="financial-disclosure">
+          <label>Funding</label>
+          <p>Not applicable.</p>
+        </fn>
+        <fn fn-type="other">
+          <label>Ethical approval</label>
+          <p>Not applicable.</p>
+        </fn>
+      </fn-group>
+    </back>
+  </sub-article>
+  <sub-article article-type="translation" id="S2" xml:lang="es">
+    <front-stub>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Artículos</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>La deferencia como premisa para las soluciones estructurales: un análisis basado en la Lei de Introdução às Normas do Direito Brasileiro - LINDB (Ley de Introducción a las Normas del Derecho Brasileño) y el principio de protección de la confianza</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid">0000-0001-7343-2718</contrib-id>
+          <name>
+            <surname>Carvalho</surname>
+            <given-names>Camyla Figueiredo de</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff3">1</xref>
+          <role content-type="https://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role>
+          <role content-type="https://credit.niso.org/contributor-roles/writing-original-draft/">Writing – original draft</role>
+          <role content-type="https://credit.niso.org/contributor-roles/writing-review-editing/">Writing – review &amp; editing</role>
+          <bio>
+            <p>Fiscal del Ministerio Público de Rondônia. Máster en Derecho por la Faculdade Católica de Rondônia (FCR). Licenciada en Derecho por la Universidade Federal da Paraíba (UFPB). Especialista en Derecho Administrativo y Gestión Pública. Especialista en Prevención y Represión de la Corrupción: Aspectos Teóricos y Prácticos. Miembro del Instituto de Derecho Administrativo de Rondônia (IRDA). Profesora de Derecho Antidiscriminatorio en la Escuela Superior del Ministerio Público de Rondônia (EMPRO).</p>
+          </bio>
+        </contrib>
+      </contrib-group>
+      <aff id="aff3">
+        <label>1</label>
+        <institution content-type="orgname">Ministerio Público del Estado de Rondônia</institution>
+        <addr-line>
+          <city>Porto Velho</city>
+          <state>Rondônia</state>
+        </addr-line>
+        <country country="BR">Brasil</country>
+        <institution content-type="original">Ministerio Público del Estado de Rondônia (MPRO), Porto Velho – Rondônia (RO) – Brasil</institution>
+      </aff>
+      <author-notes>
+        <fn fn-type="edited-by">
+          <label>Editor en jefe:</label>
+          <p>Sra. Edna Antônia Capeli da Silva Oliveira</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <label>Editor asociado:</label>
+          <p>Sra. Luciana Adélia Sottili</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <label>Editor ejecutivo:</label>
+          <p>Sra. Giselle Araújo Gadotti</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <label>Editor adjunto ejecutivo:</label>
+          <p>Prof. Dr. José Anderson Santos Cruz</p>
+        </fn>
+        <fn fn-type="coi-statement">
+          <label>Conflictos de interés</label>
+          <p>No existen conflictos de interés.</p>
+        </fn>
+        <fn fn-type="other">
+          <label>Contribuciones de los autores</label>
+          <p>Autoría exclusiva.</p>
+        </fn>
+      </author-notes>
+      <abstract>
+        <title>Resumen</title>
+        <p>Este artículo examina la resolución de conflictos estructurales desde la perspectiva de sus premisas, en particular la deferencia de los órganos de control y del Poder Judicial hacia las decisiones públicas del administrador al realizar negociaciones y buscar soluciones consensuales. El objetivo es analizar la adopción de vectores consecuencialistas mediante la modificación de la Ley de Introducción a las Normas del Derecho Brasileño (LINDB), especialmente en los artículos 20 a 22, e indagar si la postura deferente de los órganos de control hacia la administración pública corrobora los principios que guían el proceso estructural, y si es legítima como solución dialógica a los conflictos colectivos y como fundamento de la carga argumentativa para los actores en dicho proceso, dentro de los límites de la interpretación jurídica. La proposición se desarrollará mediante un método descriptivo, basado en un análisis bibliográfico directo. En conclusión, una postura de deferencia entre los órganos de control y la administración pública parece viable como medio para resolver disputas estructurales, tanto por el carácter consensual de la solución propuesta mediante la formulación e implementación de un plan, como por el modelo dialógico fomentado que guía las acciones de las entidades involucradas.</p>
+      </abstract>
+      <kwd-group xml:lang="es">
+        <title>Palabras clave</title>
+        <kwd>Seguridad jurídica</kwd>
+        <kwd>Buena fe objetiva</kwd>
+        <kwd>Control institucional</kwd>
+        <kwd>Políticas públicas</kwd>
+        <kwd>Proceso colectivo</kwd>
+      </kwd-group>
+      <funding-group>
+        <funding-statement>No aplica.</funding-statement>
+      </funding-group>
+    </front-stub>
+    <body>
+      <sec sec-type="intro">
+        <title>Introducción</title>
+        <p>Desde la promulgación de la Ley N° 13.655/2018, que modificó la LINDB mediante la incorporación de diez nuevos artículos que orientan la interpretación y la toma de decisiones en los ámbitos administrativo, de control y judicial (<xref ref-type="bibr" rid="B6">Brasil, 2018</xref>), la adopción del consecuencialismo en la administración pública brasileña ha adquirido una relevancia cada vez mayor en el debate administrativo. Esta concepción se fundamenta en las consecuencias prácticas, las circunstancias administrativas, los obstáculos y dificultades reales que enfrentan los gestores y las exigencias de las políticas públicas como elementos clave para la interpretación de las decisiones públicas por parte de los órganos de control y el Poder Judicial.</p>
+        <p>En el contexto del debate legislativo, se argumentó que la actividad de control de la administración pública —a pesar de su relevancia social y sus importantes beneficios en términos de frenar la arbitrariedad y proteger los derechos fundamentales— había adquirido una prominencia inoportuna en la interpretación primaria de las normas jurídicas, anulando la voluntad del administrador y reduciendo el alcance de la actuación del Poder Ejecutivo.</p>
+        <p>En efecto, la relación típica entre los órganos de control, el Poder Judicial y la administración pública, especialmente en lo que respecta al seguimiento de la aplicación de las políticas públicas, se ha caracterizado tradicionalmente por un enfoque directivo en las decisiones del gestor. No son infrecuentes los casos de posible parálisis de la actividad administrativa, comúnmente denominados en la doctrina jurídica como la tristemente célebre «parálisis en la toma de decisiones».</p>
+        <p>A este argumento se sumó la amplia posibilidad de revisión de las decisiones públicas, basada en el peso axiológico de los preceptos constitucionales, lo que otorga al Poder Judicial la legitimidad para llevar a cabo revisiones exhaustivas de las decisiones públicas, trascendiendo doctrinalmente los límites tradicionales de conveniencia y oportunidad típicos de los actos administrativos discrecionales.</p>
+        <p>Este trabajo tiene como objetivo analizar la adopción de vectores consecuencialistas en la enmienda a la LINDB, particularmente en los artículos 20 a 22, e investigar si la postura deferente adoptada por los órganos de control hacia la administración pública corrobora los principios que guían el proceso estructural, y si es legítima como solución dialógica a las controversias colectivas y como fundamento de la carga argumentativa para los actores en dicho proceso, dentro de los límites de la interpretación jurídica. La intención es abordar la deferencia a las decisiones públicas dentro de los límites de la lógica consecuencialista y contextualizar esta postura deferente en la resolución de controversias estructurales.</p>
+        <p>La hipótesis que se plantea es que caracterizar una disputa como estructural parece denotar, más allá de la complejidad material comúnmente observada en la reclamación y la multiplicidad de agentes involucrados, un diálogo institucional abierto entre los poderes.</p>
+        <p>La primera sección analiza los vectores consecuencialistas presentes en la LINDB y el debate subyacente a la adopción de dichos mecanismos de interpretación. La segunda sección examina la protección de las expectativas legítimas y el deber de buena fe objetiva aplicable a la administración pública como refuerzo de la racionalidad administrativa en las decisiones públicas. Finalmente, la tercera sección analiza la deferencia institucional entre los órganos de control y el Poder Judicial hacia la administración pública como recurso para la resolución de conflictos estructurales.</p>
+      </sec>
+      <sec>
+        <title>El consecuencialismo en la LINDB: el pragmatismo como equilibrio institucional entre poderes.</title>
+        <p>Parece existir un creciente consenso doctrinal en el sentido de que la enmienda legislativa introducida en la LINDB mediante la Ley N° 13.655/2018 representó la adopción de criterios consecuencialistas en la interpretación de los actos y decisiones públicas, ya sea en el ámbito administrativo, en las actividades de control o incluso en la interpretación llevada a cabo por el Poder Judicial.</p>
+        <p>La adopción de criterios como “consecuencias prácticas” (<xref ref-type="bibr" rid="B6">Brasil, 2018, art. 20</xref>), “consecuencias jurídicas y administrativas”, “peculiaridades del caso” (<xref ref-type="bibr" rid="B6">Brasil, 2018, art. 21</xref>) y “obstáculos y dificultades reales del administrador” (<xref ref-type="bibr" rid="B6">Brasil, 2018, art. 22</xref>) expresa repetidamente la preocupación del legislador por establecer directrices interpretativas para el ejercicio del control y la interpretación de los actos administrativos, con el claro objetivo de “introducir una buena dosis de pragmatismo y contextualización en la interpretación y operación de las normas de derecho público” (<xref ref-type="bibr" rid="B13">Jordão, 2018, p. 63</xref>).</p>
+        <p>En lo que él denominó el “giro pragmatista” en el derecho administrativo, <xref ref-type="bibr" rid="B15">Mendonça (2014)</xref> sostiene que:</p>
+        <disp-quote>
+          <p>El nuevo estilo de Derecho Administrativo, al igual que el anterior, tiene cuatro características básicas. Es (i) cercano a los métodos estadounidenses, (ii) pragmático y empirista, (iii) no sistematizador y asistemático, y (iv) escéptico de la centralidad del Derecho como clave para interpretar la vida económica, política y social (<xref ref-type="bibr" rid="B15">Mendonça, 2014, p. 179</xref>).</p>
+        </disp-quote>
+        <p>En este contexto, el consecuencialismo jurídico, como teoría de la toma de decisiones judiciales, se caracteriza por el uso de las consecuencias de un caso específico como refuerzo argumentativo de la legitimidad de la actividad de supervisión de la administración pública. Es decir, la consideración de las circunstancias prácticas adquiere un grado de normatividad capaz de justificar las decisiones, y sus premisas fueron expresamente incluidas en las diez nuevas disposiciones añadidas a la LINDB con la promulgación de la Ley N° 13.655/2018.</p>
+        <p>Sobre la base de esta premisa pragmática para la interpretación de las decisiones públicas, se identifican los siguientes supuestos de la nueva LINDB:</p>
+        <disp-quote>
+          <p>(i) la administración pública interpreta y su interpretación tiene peso; (ii) confianza en el gestor público honesto para innovar la administración pública; (iii) mayor seguridad jurídica para administradores, ciudadanos y controladores; (iv) la calidad de las decisiones públicas puede mejorarse, favoreciendo la seguridad jurídica (<xref ref-type="bibr" rid="B5">Bonacorsi de Palma, 2020, p. 209</xref>).</p>
+        </disp-quote>
+        <p>continúa <xref ref-type="bibr" rid="B5">Bonacorsi de Palma (2020)</xref>:</p>
+        <disp-quote>
+          <p>En la práctica, el deber de considerar los obstáculos y dificultades reales que enfrentan los gestores y las exigencias de las políticas públicas implica sensibilizar al controlador sobre la realidad de la burocracia pública brasileña: estos elementos no deben ignorarse, sino contemplarse en la hermenéutica jurídica, que no es pura. Este punto cobra especial relevancia si consideramos que la administración pública es la principal institución estatal responsable de garantizar los derechos fundamentales. Más que ninguna otra institución estatal, es la administración la que interactúa directamente con la ciudadanía y, mediante la prestación de servicios públicos, implementa las políticas públicas bajo su responsabilidad (<xref ref-type="bibr" rid="B5">Bonacorsi de Palma, 2020, p. 232</xref>).</p>
+        </disp-quote>
+        <p>El argumento recurrente de una parte considerable de la doctrina, que aparece como corolario de los fundamentos consecuencialistas incorporados en la LINDB, es la seguridad jurídica, que "deja de ser un mero requisito de predeterminación y comienza a materializar un deber de control racional y argumentativo del Derecho" (<xref ref-type="bibr" rid="B2">Ávila, 2021, p. 273</xref>).</p>
+        <p>La preocupación del legislador con respecto a la inclusión de las nuevas disposiciones radicaría en el hecho de que...</p>
+        <disp-quote>
+          <p>... empíricamente se observa que no es infrecuente que el controlador asuma competencias administrativas. El traspaso de competencias de la esfera administrativa a la esfera de control implica no solo la transferencia de poderes de decisión y sus prerrogativas, sino también de todas las restricciones que se aplican al gestor público (<xref ref-type="bibr" rid="B5">Bonacorsi de Palma, 2020, p. 232</xref>).</p>
+        </disp-quote>
+        <p><xref ref-type="bibr" rid="B13">Jordão (2018)</xref> añade otra capa al debate, argumentando que el cambio legislativo profundiza el punto de vista doctrinal de la indeterminación de la ley como la única forma legítima de control social y solución de problemas:</p>
+        <disp-quote>
+          <p>Esta sobrevaloración del derecho (como técnica o inventario de soluciones a diversos problemas sociales) favorece a los licenciados en derecho, en la medida en que les otorga poder. Al fin y al cabo, se posicionan como oráculos, capaces de desvelar la determinación oculta y específica del ordenamiento jurídico, de la que nadie podría apartarse legalmente. Pero resulta socialmente problemático, ya que excluye soluciones igualmente posibles según otra interpretación razonable de la ley, además de minimizar la aportación que otros conocimientos no jurídicos pueden ofrecer para una mejor aplicación de las normas legales.... Dado que, a pesar de la teoría contraria, la ley suele ser indeterminada, no es raro que los órganos de control tengan interpretaciones distintas a las del administrador respecto de cuál sería la solución específica a adoptar en un caso dado. Y, basándose en esta teoría idealizada y poco realista, incluso si la interpretación de la administración fuera razonable, creen que hay margen para anulaciones, suspensiones, castigos y represiones (<xref ref-type="bibr" rid="B13">Jordão, 2018, p. 67</xref>).</p>
+        </disp-quote>
+        <p>Por otro lado, parte de la crítica al consecuencialismo incorporado en la LINDB radica en la cuestión de la legitimidad de este mismo uso de las consecuencias prácticas como base para las decisiones. La parte crítica</p>
+        <disp-quote>
+          <p>... resalta que los argumentos basados en consecuencias aparecen “enmascarados dentro de argumentos formales y normativos” y atribuye este fenómeno al “prejuicio” de los profesionales del derecho y la sociedad, que creen que el papel del juez es aplicar la ley y no operar con resultados (<xref ref-type="bibr" rid="B16">Mendonça, 2018, pp. 31–32</xref>).</p>
+        </disp-quote>
+        <p>En este punto, <xref ref-type="bibr" rid="B11">Gabardo y Souza (2020)</xref>, al presentar la perspectiva de Ronald Dworkin y las premisas filosóficas de la obra de Jacques de Mouel, <italic>Crítica de la eficacia,</italic> enseñan que:</p>
+        <disp-quote>
+          <p>...el autor se opone a la idea pragmática de que "la efectividad equivale a la verdad", porque tal percepción de la realidad: 1. no aborda la complejidad, 2. prioriza la acción sobre el conocimiento, 3. rechaza las contradicciones del sistema y 4. evita la pregunta importante "¿por qué?" (<xref ref-type="bibr" rid="B11">Gabardo &amp; Souza, 2020, p. 107</xref>).</p>
+        </disp-quote>
+        <p>Y, a modo de ejemplo, <xref ref-type="bibr" rid="B11">Gabardo y Souza (2020)</xref> ilustran:</p>
+        <disp-quote>
+          <p>En Brasil, uno de los ejemplos más recientes de una política pública pragmática que termina imponiendo una visión del mundo simplista desde una perspectiva económica es el tope de gasto establecido por la Enmienda Constitucional No. 95/2016.39 Bajo el pretexto de un razonamiento pragmático, se adopta una acción contraria a los principios del Derecho Constitucional vigente, creando una disonancia dentro del sistema jurídico (no controlado por el Poder Judicial, que cada vez más acepta este mecanismo de acción de los Poderes Públicos precisamente desde la perspectiva de considerar las consecuencias y no la integridad del sistema) (<xref ref-type="bibr" rid="B11">Gabardo &amp; Souza, 2020, p. 107</xref>).</p>
+        </disp-quote>
+        <p>Siguiendo con las críticas a los cambios realizados en la LINDB, desde la perspectiva de los organismos de control, <xref ref-type="bibr" rid="B3">Bertoncini (2022)</xref> señala:</p>
+        <disp-quote>
+          <p>...el ejercicio efectivo del control sobre los actos de la Administración Pública por parte de los órganos competentes puede producir cambios en las transacciones legales mediante la invalidación o rectificación, total o parcial. Ningún acto administrativo ni contrato está dotado de una presunción absoluta de legalidad. En ese sentido, el riesgo y la inestabilidad relativa son inherentes a cualquier sistema, ya sea porque el defecto o la falla existen efectivamente y se declaran, o también, por qué no decirlo, debido a errores de diagnóstico por parte de los agentes de control, un riesgo inherente a la naturaleza humana, presente no solo en el sistema brasileño de control de legalidad. El problema radica en comprender que el error es una constante en la actividad de control, como si el control disfuncional fuera la regla absoluta, una premisa claramente falsa, al igual que la noción de que el gestor público nunca se equivoca (<xref ref-type="bibr" rid="B3">Bertoncini, 2022</xref>).</p>
+        </disp-quote>
+        <p>Por otro lado, parece prevalecer la comprensión de la mayoría de los expertos en derecho administrativo, que aborda el debate sobre la supuesta ausencia de parámetros objetivos para el control de la administración pública, señalando una "retórica de descalificación de las estrategias administrativas elegidas, consideradas a priori inadecuadas debido a la falta de preparación o la contaminación político-partidista de sus formuladores" (<xref ref-type="bibr" rid="B14">Lírio do Valle, 2020, p. 110</xref>) como un sesgo tradicional de los mecanismos de control.</p>
+        <p>La LINDB se orientó a superar el paradigma del control inevitable sobre las acciones de los gestores, basado en la premisa de la <italic>desconfianza</italic> previa respecto al momento de la elección pública, a favor de un análisis <italic>ex post,</italic> en el que se evalúa la alineación de la elección pública con los mandatos constitucionales.</p>
+        <p>En cuanto al parámetro de control público que se pretendía superar, <xref ref-type="bibr" rid="B17">Modesto (2024)</xref> señala:</p>
+        <disp-quote>
+          <p>El paradigma de la acción u omisión culpable como causa general del daño presenta imprecisiones y desventajas adicionales. La actividad de control se percibe como una actividad restauradora. Busca restablecer el <italic>statu quo ante</italic> al orden virtuoso previo a la interferencia disruptiva de la acción culpable o deliberada de los agentes responsables. El control adquiere características expiatorias y represivas, dirigiendo su atención al pasado y a la sanción de los culpables, sin darse cuenta de que a menudo volver al pasado es imposible o costoso. Esta indiferencia al costo es también otro rasgo distintivo del paradigma casi religioso de la expiación de la culpa: no se evalúa el costo del control ni su impacto en la cadena social. Lo que importa es el carácter ejemplar de la sanción por el error, su efecto educativo, independientemente de los costos inherentes a las soluciones de control (<xref ref-type="bibr" rid="B17">Modesto, 2024, pp. 169-170</xref>).</p>
+        </disp-quote>
+        <p>La orientación general, tal como se indica en el proyecto de ley que modificó la LINDB, era "consolidar y mejorar las regulaciones y controles públicos existentes, protegiendo a las personas, las organizaciones y los funcionarios públicos contra las incertidumbres, los riesgos y los costos injustos. Esto no es solo una cuestión de profesionales del derecho, sino de toda la sociedad" (<xref ref-type="bibr" rid="B1">Anastasia, 2015, p. 5</xref>).</p>
+        <p>Respecto al debate subyacente a la adopción del consecuencialismo dentro del LINDB, <xref ref-type="bibr" rid="B21">Rafael Barreto da Silva (2022)</xref> enseña:</p>
+        <disp-quote>
+          <p>Ante un escenario de desequilibrio, fue necesario presentar una respuesta legislativa para equilibrar la relación entre controlador y controlado, de manera que la parte más fuerte asumiera una mayor responsabilidad para reducir la desigualdad en la competencia. La idea de Carlos Ari Sundfeld, concebida en conjunto con Floriano de Azevedo Marques Neto, fue la inserción, en la LINDB, de normas capaces de hacer más seguras las acciones de los gestores y socios privados, sin comprometer la eficiencia de la actividad administrativa ni el papel del control público. La LINDB sería el lugar apropiado porque es una "ley brújula", un tipo de legislación que define el funcionamiento de todo el ordenamiento jurídico y que podría albergar disposiciones que funcionan como "parte general" del derecho público sin sufrir desnaturalización (<xref ref-type="bibr" rid="B21">Silva, 2022, p. 140</xref>).</p>
+        </disp-quote>
+        <p>En el contexto de la solución consecuencialista propuesta por la LINDB, <xref ref-type="bibr" rid="B22">Sundfeld y Castro Neves (2023)</xref> argumentan que la ley</p>
+        <disp-quote>
+          <p>...exige que el controlador jurídico preste especial atención tanto al ámbito específico de las políticas y asuntos públicos como a la realidad concreta de la administración. Asimismo, busca evitar la aplicación de soluciones idealizadas, que estarían preconcebidas por ley y solo se identificarían en casos específicos (<xref ref-type="bibr" rid="B22">Sundfeld &amp; Castro Neves, 2023, p. 67</xref>).</p>
+        </disp-quote>
+        <p><xref ref-type="bibr" rid="B5">Bonacorsi de Palma (2020)</xref> sostiene:</p>
+        <disp-quote>
+          <p>La nueva LINDB supera la cuestión que planteo —el ámbito de la administración y el control— para centrarse en el resultado final: coherencia, transparencia y un mayor flujo de información que permita una mayor previsibilidad y estabilidad de las acciones públicas. Por ello, se hace tanto hincapié en la justificación cualificada. Las cargas de la justificación no constituyen restricciones para los controladores, sino respuestas que deben proporcionarse en función del tipo de decisión que se deba tomar, independientemente de quién sea la administración o el controlador. Estas cargas permiten el diálogo institucional y la resolución concreta de problemas mediante ajustes de conducta, cambios normativos, revisión de actos, procedimientos y contratos, etc. (<xref ref-type="bibr" rid="B5">Bonacorsi de Palma, 2020, p. 245</xref>).</p>
+        </disp-quote>
+        <p>Los argumentos basados en el equilibrio institucional y la seguridad jurídica parecen ser los que impulsan en gran medida el debate doctrinal, que se fundamenta en las premisas de seguridad jurídica y el imperativo de "seguridad en la toma de decisiones" para los directivos que presumiblemente actúan de buena fe.</p>
+        <p>La siguiente sección profundiza en el análisis de la seguridad jurídica y la protección de la confianza ciudadana como principios rectores de la modificación de la LINDB.</p>
+      </sec>
+      <sec>
+        <title>La protección de la confianza legítima y la buena fe como criterios para evaluar las decisiones públicas.</title>
+        <p>La seguridad jurídica ocupa tradicionalmente un lugar destacado, ya sea en términos doctrinales, en interés del legislador o incluso en las aspiraciones fácticas de los agentes estatales y los ciudadanos gobernados. En palabras de <xref ref-type="bibr" rid="B20">Sarlet (2004)</xref>:</p>
+        <disp-quote>
+          <p>...tomar en serio la seguridad jurídica implica analizar todas sus dimensiones, lo que incluye no solo la comprensión del significado y el contenido del derecho a la seguridad jurídica, sino que también abarca el problema de su eficacia y efectividad (<xref ref-type="bibr" rid="B20">Sarlet, 2004, p. 10</xref>).</p>
+        </disp-quote>
+        <p>En el ámbito de las dimensiones de la seguridad jurídica, <xref ref-type="bibr" rid="B19">Quintiliano (2018)</xref>, citando a Canotilho, sostiene que:</p>
+        <disp-quote>
+          <p>...el principio del Estado de Derecho, fortalecido por la seguridad jurídica y la confianza jurídica, refuerza la coexistencia de dos elementos: uno objetivo del orden jurídico, relacionado con su durabilidad, la paz jurídica y social; el otro, un elemento de garantía y subjetivo, que protege la confianza en la permanencia de las situaciones jurídicas (<xref ref-type="bibr" rid="B19">Quintiliano, 2018, p. 133</xref>).</p>
+        </disp-quote>
+        <p>Al esbozar el concepto del principio de protección de las expectativas legítimas y sus objetivos, <xref ref-type="bibr" rid="B9">Di Pietro (2009)</xref> enseña:</p>
+        <disp-quote>
+          <p>El principio de protección de las expectativas legítimas salvaguarda la buena fe del administrado; en otras palabras, la confianza que se protege es la que el individuo deposita en la Administración. El particular confía en que la conducta de la Administración sea correcta, conforme a la ley y al derecho. De ahí la posibilidad de subsanar actos ilícitos o de remediar los efectos pasados de actos inválidos (<xref ref-type="bibr" rid="B9">Di Pietro, 2009, p. 155</xref>).</p>
+        </disp-quote>
+        <p>Y el mismo estudioso profundiza en este tema en otra obra:</p>
+        <disp-quote>
+          <p>La seguridad jurídica está estrechamente ligada al principio de respeto a la buena fe. Si la Administración ha adoptado una interpretación como correcta y la ha aplicado a casos específicos, no puede posteriormente anular actos anteriores con el pretexto de que se basaron en una interpretación errónea. Si al administrado se le ha reconocido un derecho con base en una interpretación adoptada uniformemente por toda la Administración, es evidente que debe respetarse su buena fe. Si la ley debe respetar los derechos adquiridos, el acto jurídico perfecto y la cosa juzgada, por respeto al principio de seguridad jurídica, resulta inadmisible que los derechos de una persona varíen según las interpretaciones jurídicas que cambian con el tiempo (<xref ref-type="bibr" rid="B10">Di Pietro, 2014, p. 234</xref>).</p>
+        </disp-quote>
+        <p>En este contexto, el análisis de la buena fe objetiva emerge como un criterio igualmente aplicable a la administración pública, como factor de legitimidad de las decisiones del gestor. Doctrinalmente, la buena fe objetiva, como norma de conducta y criterio rector para la interpretación e integración de las relaciones jurídicas, se diferencia de la buena fe subjetiva, entendida como el estado psicológico de un sujeto que cree estar actuando de acuerdo con las normas del ordenamiento jurídico, cuya conciencia y reserva mental se encuentran estáticamente alineadas con la ética.</p>
+        <p>Nuestro análisis ya ha examinado estos conceptos:</p>
+        <disp-quote>
+          <p>La buena fe objetiva puede entenderse como un estándar de equidad y, en este sentido, no guarda relación con la esfera privada de los individuos. Se desarrolla dinámicamente, es externa al sujeto y puede ser valorada legalmente; si se ignora, sirve como parámetro para la responsabilidad civil de la parte incumplidora, dado que su contenido genera deberes de conducta secundarios que imponen comportamientos necesarios a las partes, incluso si no están expresamente previstos en el instrumento contractual. Se relaciona menos con la esfera de la conciencia de los sujetos que con el deber objetivo de mantener el equilibrio negocial entre las partes (<xref ref-type="bibr" rid="B8">Carvalho, 2016, p. 47</xref>).</p>
+        </disp-quote>
+        <p>De todo lo que se ha producido doctrinalmente sobre el tema, parece natural exigir que la administración pública cumpla con la cláusula general de buena fe objetiva como regla de legitimidad para sus actos, ya sean internos o, aún más, en relaciones jurídicas con particulares, puesto que "parece difícil considerar al Estado excluido de la obligación de respetar un principio básico de derecho y moral, como el de la buena fe, porque el simple hecho de que la Administración busque el bien común no la autoriza a querer escapar de tal límite" (<xref ref-type="bibr" rid="B18">Nobre Júnior, 2002</xref>).</p>
+        <p>Al dilucidar el paradigma de la legitimidad de las decisiones públicas basadas en mandatos constitucionales, <xref ref-type="bibr" rid="B14">Lírio do Valle (2020)</xref> enseña:</p>
+        <disp-quote>
+          <p>Bajo el amparo de la Constitución de 1988, la legitimidad de la acción estatal se fundamenta ahora en la coherencia entre sus acciones y los fines constitucionales establecidos. La evaluación de esta coherencia con la dimensión sustantiva de la democracia —y, por ende, la legitimidad de la acción estatal— se traslada del momento de la formulación de la elección pública, donde se identificaba a su autor, a un momento posterior, donde se evalúa su coherencia con los fines constitucionales tanto en su concepción abstracta como en su ejecución concreta. La elección pública se legitima por sus resultados (MOREIRA NETO, 2006); por consiguiente, el criterio ya no admite un modelo puramente formal que se conforme con la mera presencia de la Administración Pública como sujeto. Por el contrario, la inclusión del elemento sustantivo en el ejercicio del control del poder es imperativa para cualquiera de las estructuras responsables de ello (<xref ref-type="bibr" rid="B14">Lírio do Valle, 2020, p. 115</xref>).</p>
+        </disp-quote>
+        <p>En este contexto, donde el objetivo es superar el modelo tradicional de control de la acción estatal –desde el momento de formular la elección pública misma, hasta alinearla con los fines constitucionales– se reintroduce el debate sobre la opción legislativa incluida en la LINDB.</p>
+        <p>Refiriéndose a la Ley No. 13.655/18 como la “Ley de Seguridad Jurídica”, <xref ref-type="bibr" rid="B5">Bonacorsi de Palma (2020)</xref> argumenta:</p>
+        <disp-quote>
+          <p>Los artículos 20, 21 y 22 de la Ley de Seguridad Jurídica deben interpretarse como criterios de deferencia. Si, ante una concesión de servicio público, el controlador no puede indicar expresamente sus consecuencias jurídicas y administrativas, o no puede indicar las condiciones para que la regularización se produzca de manera proporcional y equitativa sin perjuicio del interés general, entonces no debe invalidarla, solicitar su invalidez ni celebrar un acuerdo de ajuste de conducta. Si el controlador no puede cumplir con la carga argumentativa, la interpretación administrativa merece deferencia y debe mantenerse la actuación administrativa (<xref ref-type="bibr" rid="B5">Bonacorsi de Palma, 2020, p. 232</xref>).</p>
+        </disp-quote>
+        <p>En este sentido, la protección de las expectativas legítimas de los ciudadanos gobernados funciona simultáneamente como un requisito para la legitimidad de la elección pública, como una limitación a la discrecionalidad de los actos administrativos y también como un importante punto de referencia para los límites de la actividad de control de la administración pública.</p>
+        <p>La siguiente sección examina el ejercicio dialógico de la supervisión de las políticas públicas y la deferencia institucional entre los órganos de control y el Poder Judicial hacia la administración pública desde la perspectiva de los litigios estructurales.</p>
+      </sec>
+      <sec>
+        <title>Una postura deferente hacia las decisiones públicas como mecanismo para resolver conflictos estructurales</title>
+        <p>Con base en un análisis de las características consecuencialistas inherentes a la LINDB y la prominencia de la seguridad jurídica y la protección de las expectativas legítimas como vectores de legitimidad para las decisiones públicas, esta sección sugiere que la caracterización de una disputa como estructural —además de la complejidad material de la demanda y la multiplicidad de agentes involucrados — también puede materializar una apertura dialógica institucional entre los poderes.</p>
+        <p>El debate forma parte del estudio de los procesos colectivos, cuya litigiosidad y complejidad hacen que la forma de protección prevista sea igualmente multifacética. En palabras de <xref ref-type="bibr" rid="B23">Vitorelli (2018)</xref>, el análisis de disputas complejas</p>
+        <disp-quote>
+          <p>...se aleja significativamente de la dicotomía lícito-ilícito e inevitablemente se acerca a consideraciones que dependen de aportaciones de conocimiento político, económico y de otras áreas. Los problemas son policéntricos y su solución no está preestablecida en la ley, lo que conlleva grandes dificultades para la acción judicial (<xref ref-type="bibr" rid="B23">Vitorelli, 2018, pp. 335-336</xref>).</p>
+        </disp-quote>
+        <p>En este contexto,</p>
+        <disp-quote>
+          <p>...se suele sugerir que la intensidad de la intervención judicial debe modularse según la naturaleza de las decisiones administrativas que se examinan: las cuestiones jurídicas merecerían un control más riguroso; las cuestiones técnicas o políticas justificarían una mayor deferencia judicial. La idea subyacente es que la intensidad de la revisión judicial debe adaptarse a las características de la decisión administrativa que se examina o de la autoridad administrativa que la emitió (<xref ref-type="bibr" rid="B12">Jordão, 2016, p. 9</xref>).</p>
+        </disp-quote>
+        <p>Al sugerir una forma de control bajo una postura deferente, <xref ref-type="bibr" rid="B7">Cardoso &amp; Santos (2023)</xref> señalan:</p>
+        <disp-quote>
+          <p>El controlador, en lugar de imponer, en este caso, la lectura e interpretación legal que él mismo haría en este contexto de indeterminación, debería considerar la existencia de un riesgo de razonabilidad, o un rango de interpretaciones razonables, es decir, debería limitarse a evaluar la razonabilidad de la elección interpretativa hecha por el gestor público, prestando deferencia a la elección interpretativa razonable de la administración, incluso si no corresponde a la elección interpretativa específica que él mismo (el controlador) haría, si la interpretación fuera su responsabilidad en primer lugar (<xref ref-type="bibr" rid="B7">Cardoso &amp; Santos, 2023, p. 139</xref>).</p>
+        </disp-quote>
+        <p>Evaluar estas premisas como dispositivos para resolver disputas estructurales requiere un análisis del concepto de estas últimas. Sobre este punto, <xref ref-type="bibr" rid="B23">Vitorelli (2018)</xref> enseña:</p>
+        <disp-quote>
+          <p>Las disputas estructurales son disputas colectivas que surgen del funcionamiento de una estructura burocrática, generalmente pública. El funcionamiento de la estructura es lo que causa, permite o perpetúa la violación que da origen a la disputa colectiva. Así, si la violación simplemente se elimina, el problema puede resolverse de forma aparente, sin resultados empíricamente significativos, o momentáneamente, para luego reaparecer en el futuro.... toda disputa estructural es una disputa colectiva que se irradia. Esto se debe a que las disputas estructurales se desarrollan en el contexto de una violación que afecta a diversos subgrupos sociales, con diferentes intensidades y formas, afectando los intereses de estos subgrupos de maneras distintas, sin ninguna perspectiva social compartida entre ellos. Incluso puede darse el caso de que parte del grupo se beneficie de mantener el statu quo posterior a la violación y se vuelva contra la reivindicación de la sociedad. Por eso las disputas estructurales son policéntricas y no se ajustan adecuadamente al esquema procedimental tradicional (<xref ref-type="bibr" rid="B23">Vitorelli, 2018, p. 333</xref>).</p>
+        </disp-quote>
+        <p>Es precisamente en la naturaleza policéntrica de las disputas estructurales donde se abre el espacio dialógico institucional para la reformulación de la estructura que causa, o es de alguna manera responsable de, la violación que da origen a la disputa.</p>
+        <p>Por lo tanto, al analizar la reestructuración de un mecanismo público o privado que representa una violación del logro de los fines constitucionales en favor de los ciudadanos gobernados, se justifica la postura deferente de los órganos de control hacia las decisiones públicas, precedida por el deber ineludible de planificación por parte del administrador.</p>
+        <p>En este sentido, <xref ref-type="bibr" rid="B14">Lírio do Valle (2020)</xref> argumenta que:</p>
+        <disp-quote>
+          <p>...si todo se desarrolla a partir de la argumentación racional (y no puede haber otra inspiración para la formulación y adaptación de las opciones públicas), es esencial que el control se desarrolle a partir de elementos objetivos, y esto requerirá una dialéctica con las razones para decidir en la Administración Pública, evidenciada por las etapas del enfoque deferente (<xref ref-type="bibr" rid="B14">Lírio do Valle, 2020, p. 124</xref>).</p>
+        </disp-quote>
+        <p>Reforzando el argumento de la deferencia desde la perspectiva del deber de justificación sustancial de los actos de la administración pública, <xref ref-type="bibr" rid="B4">Bitencourt (2015)</xref> enseña que:</p>
+        <disp-quote>
+          <p>...la proporcionalidad es la clave para la revisión judicial de las políticas públicas, que es precisamente la motivación de los actos administrativos. Esto se debe a que la teoría contemporánea se ha inclinado a considerar la necesidad de una motivación sustancial, que prevé la existencia de supuestos reales y razones correctas capaces de justificar una decisión y legitimarla en este sentido, devolviendo así la decisión a un parámetro de valor capaz de justificarla en un caso específico (<xref ref-type="bibr" rid="B4">Bitencourt, 2015, p. 143</xref>).</p>
+        </disp-quote>
+        <p>En este contexto, la adopción de una postura deferente como mecanismo para resolver disputas parece comprensible, dadas sus características policéntricas y multifacéticas, que requieren mecanismos que trasciendan el ámbito jurídico para dirimir controversias. La resolución de tales disputas, que suelen exigir una reestructuración basada en la elaboración de un plan aprobado por el Poder Judicial o ejecutado extrajudicialmente por la administración ante los órganos de control, presupone un enfoque dialógico y consensual por parte de los agentes involucrados, ya sea al considerar las "consecuencias prácticas" (<xref ref-type="bibr" rid="B6">Brasil, 2018, art. 20</xref>), las "consecuencias jurídicas y administrativas", las "particularidades del caso" y los "obstáculos y dificultades reales del gestor" (<xref ref-type="bibr" rid="B6">Brasil, 2018, art. 21</xref>) de las decisiones públicas, o incluso al respetar la racionalidad de dichas decisiones cuando sea inevitable por su deber de justificación sustancial.</p>
+      </sec>
+      <sec sec-type="conclusions">
+        <title>Consideraciones finales</title>
+        <p>A lo largo de este artículo, hemos intentado analizar la postura deferente entre los organismos de supervisión y el Poder Judicial con respecto a la racionalidad de las decisiones públicas tomadas por la administración, en el contexto de los litigios estructurales.</p>
+        <p>Se analizaron los vectores consecuencialistas presentes en la LINDB y el debate subyacente sobre la adopción de dichos mecanismos de interpretación, señalando las críticas doctrinales y el debate predominante acerca del objetivo de la norma de superar el paradigma del control inevitable de la acción del gestor, basado en la premisa de desconfianza previa respecto al momento de la elección pública, a favor de un análisis <italic>ex post,</italic> en el que se evalúa la alineación de la elección pública con los mandatos constitucionales.</p>
+        <p>En la siguiente sección, se examinó la protección de las expectativas legítimas y el deber de buena fe objetiva exigible a la administración pública como un refuerzo de la racionalidad administrativa en las decisiones públicas, concluyendo que la protección de las expectativas legítimas de los ciudadanos administrados funciona simultáneamente como un requisito para la legitimidad de la elección pública, como una limitación a la discrecionalidad de los actos administrativos y también como un importante punto de referencia para los límites de la actividad de control de la administración pública.</p>
+        <p>En el tercer tema, se abordó la cuestión de la idoneidad de aplicar el principio de deferencia para resolver disputas estructurales, analizando la premisa de la deferencia no solo desde la perspectiva de los órganos de control, sino especialmente desde la perspectiva del deber de la administración de proporcionar una justificación sustancial para las decisiones públicas.</p>
+        <p>Tras examinar la bibliografía consultada y la interpretación dialéctica de las obras, se concluye que una postura de deferencia entre los agentes de control y la administración pública parece viable como recurso para resolver conflictos estructurales, ya sea por la naturaleza consensual de la solución propuesta al conflicto mediante la formulación e implementación de un plan, o por el modelo dialógico fomentado que guía las acciones de las entidades involucradas.</p>
+      </sec>
+    </body>
+    <back>
+      <ack>
+        <title>Agradecimientos</title>
+        <p>No aplica.</p>
+      </ack>
+      <sec sec-type="data-availability" specific-use="data-available">
+        <title>Disponibilidad de datos y materiales</title>
+        <p>Los datos utilizados en esta investigación están disponibles en las fuentes que figuran en las Referencias.</p>
+      </sec>
+      <fn-group>
+        <fn fn-type="financial-disclosure">
+          <label>Financiación</label>
+          <p>No aplica.</p>
+        </fn>
+        <fn fn-type="other">
+          <label>Aprobación ética</label>
+          <p>No aplica.</p>
+        </fn>
+      </fn-group>
+    </back>
+  </sub-article>
+</article>

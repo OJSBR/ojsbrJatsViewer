@@ -1,0 +1,419 @@
+/**
+ * @file plugins/generic/ojsbrJatsViewer/css/jatsViewer.css
+ *
+ * Copyright (c) 2026 OJSBR (https://ojsbr.com)
+ * Distributed under the GNU GPL v3. For full terms see the file docs/COPYING.
+ *
+ * Page of an XML galley. Fonts and colours come from the theme; only the
+ * layout of the toolbar, panels, figures and tables is set here.
+ */
+
+.ojsbrJats-page {
+	--ojsbrJats-line: rgba(0, 0, 0, 0.15);
+	--ojsbrJats-soft: rgba(0, 0, 0, 0.04);
+	overflow-wrap: break-word;
+}
+
+.ojsbrJats-sr {
+	position: absolute !important;
+	width: 1px;
+	height: 1px;
+	padding: 0;
+	margin: -1px;
+	overflow: hidden;
+	clip: rect(0, 0, 0, 0);
+	white-space: nowrap;
+	border: 0;
+}
+
+/* Toolbar: return, languages, panels, download */
+
+.ojsbrJats-toolbar {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	gap: 0.5rem 1rem;
+	margin: 1rem 0 1.5rem;
+	padding: 0.75rem 0;
+	border-top: 1px solid var(--ojsbrJats-line);
+	border-bottom: 1px solid var(--ojsbrJats-line);
+}
+
+.ojsbrJats-toolbarlabel {
+	font-weight: bold;
+	margin-right: 0.25rem;
+}
+
+.ojsbrJats-languages {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	gap: 0.25rem;
+}
+
+.ojsbrJats-languages ul {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 0.25rem;
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+.ojsbrJats-languages a,
+.ojsbrJats-panel summary,
+.ojsbrJats-download,
+.ojsbrJats-return {
+	display: inline-block;
+	padding: 0.25rem 0.75rem;
+	border: 1px solid var(--ojsbrJats-line);
+	border-radius: 3px;
+	text-decoration: none;
+	line-height: 1.6;
+}
+
+.ojsbrJats-languages a.ojsbrJats-current {
+	font-weight: bold;
+	border-color: currentColor;
+	background: var(--ojsbrJats-soft);
+}
+
+.ojsbrJats-languages a:focus-visible,
+.ojsbrJats-panel summary:focus-visible,
+.ojsbrJats-download:focus-visible,
+.ojsbrJats-return:focus-visible,
+.ojsbrJats-tablescroll:focus-visible {
+	outline: 2px solid currentColor;
+	outline-offset: 2px;
+}
+
+.ojsbrJats-download {
+	margin-left: auto;
+}
+
+.ojsbrJats-panel summary {
+	cursor: pointer;
+}
+
+/* An open panel takes the whole width of the toolbar, below its buttons. */
+.ojsbrJats-panel[open] {
+	flex-basis: 100%;
+	order: 10;
+}
+
+.ojsbrJats-panellist {
+	max-height: 60vh;
+	overflow-y: auto;
+	margin: 0.5rem 0 0;
+	padding: 0;
+	list-style: none;
+}
+
+.ojsbrJats-panellist li {
+	border-bottom: 1px solid var(--ojsbrJats-line);
+}
+
+.ojsbrJats-panellist a {
+	display: flex;
+	align-items: flex-start;
+	gap: 0.75rem;
+	padding: 0.5rem 0.25rem;
+	text-decoration: none;
+}
+
+.ojsbrJats-thumb {
+	flex: 0 0 auto;
+	width: 80px;
+	height: 60px;
+	object-fit: contain;
+	background: var(--ojsbrJats-soft);
+}
+
+.ojsbrJats-panellabel {
+	font-weight: bold;
+	white-space: nowrap;
+}
+
+.ojsbrJats-panelcaption {
+	min-width: 0;
+}
+
+/* Article */
+
+.ojsbrJats-article {
+	max-width: 100%;
+}
+
+.ojsbrJats-subject {
+	text-transform: uppercase;
+	letter-spacing: 0.05em;
+	font-size: 0.85em;
+	margin: 0 0 0.5rem;
+}
+
+.ojsbrJats-title {
+	margin-top: 0;
+}
+
+.ojsbrJats-contribs {
+	margin: 0 0 0.5rem;
+	padding: 0;
+	list-style: none;
+}
+
+.ojsbrJats-contribs li {
+	display: inline;
+}
+
+.ojsbrJats-contribs li:not(:last-child)::after {
+	content: "; ";
+}
+
+.ojsbrJats-name {
+	font-weight: bold;
+}
+
+.ojsbrJats-orcid {
+	display: inline-block;
+	min-width: 1.4em;
+	padding: 0 0.2em;
+	border-radius: 50%;
+	background: #a6ce39;
+	color: #fff !important;
+	font-size: 0.7em;
+	font-weight: bold;
+	line-height: 1.4em;
+	text-align: center;
+	text-decoration: none;
+	vertical-align: middle;
+}
+
+.ojsbrJats-affs {
+	margin: 0 0 1.5rem;
+	padding: 0;
+	list-style: none;
+	font-size: 0.9em;
+}
+
+.ojsbrJats-abstract,
+.ojsbrJats-info,
+.ojsbrJats-bios {
+	margin: 1.5rem 0;
+	padding: 1rem 1.25rem;
+	background: var(--ojsbrJats-soft);
+	border-left: 3px solid var(--ojsbrJats-line);
+}
+
+.ojsbrJats-abstract > h2,
+.ojsbrJats-info > h2,
+.ojsbrJats-bios > h2 {
+	margin-top: 0;
+}
+
+.ojsbrJats-info dl,
+.ojsbrJats-bios dl {
+	margin: 0;
+}
+
+.ojsbrJats-info dt,
+.ojsbrJats-bios dt {
+	font-weight: bold;
+	margin-top: 0.5rem;
+}
+
+.ojsbrJats-info dd,
+.ojsbrJats-bios dd {
+	margin: 0;
+}
+
+.ojsbrJats-info dd p,
+.ojsbrJats-bios dd p {
+	margin: 0;
+}
+
+.ojsbrJats-quote {
+	margin: 1rem 0 1rem 1.5rem;
+	padding-left: 1rem;
+	border-left: 3px solid var(--ojsbrJats-line);
+}
+
+.ojsbrJats-reflist {
+	padding-left: 0;
+	list-style: none;
+}
+
+.ojsbrJats-reflist li {
+	margin: 0 0 0.75rem;
+	padding-left: 1.5rem;
+	text-indent: -1.5rem;
+}
+
+.ojsbrJats-fns {
+	padding-left: 0;
+	list-style: none;
+}
+
+.ojsbrJats-fns li {
+	margin-bottom: 0.5rem;
+}
+
+.ojsbrJats-fnlabel,
+.ojsbrJats-reflabel {
+	font-weight: bold;
+}
+
+.ojsbrJats-fnlabel + p,
+.ojsbrJats-reflabel + p {
+	display: inline;
+}
+
+.ojsbrJats-list-simple {
+	list-style: none;
+	padding-left: 1rem;
+}
+
+.ojsbrJats-sc {
+	font-variant: small-caps;
+}
+
+.ojsbrJats-overline {
+	text-decoration: overline;
+}
+
+/* Figures and tables */
+
+.ojsbrJats-fig,
+.ojsbrJats-table {
+	margin: 1.5rem 0;
+	padding: 0.75rem;
+	border: 1px solid var(--ojsbrJats-line);
+	border-radius: 3px;
+	scroll-margin-top: 1rem;
+}
+
+.ojsbrJats-fig:target,
+.ojsbrJats-table:target {
+	outline: 3px solid currentColor;
+	outline-offset: 2px;
+}
+
+.ojsbrJats-img {
+	display: block;
+	max-width: 100%;
+	height: auto;
+	margin: 0 auto;
+}
+
+.ojsbrJats-inlineimg {
+	max-width: 100%;
+	height: auto;
+	vertical-align: middle;
+}
+
+.ojsbrJats-fig figcaption,
+.ojsbrJats-table figcaption {
+	font-size: 0.9em;
+}
+
+.ojsbrJats-caption {
+	margin: 0.5rem 0;
+}
+
+.ojsbrJats-attrib,
+.ojsbrJats-tablefoot {
+	font-size: 0.85em;
+}
+
+.ojsbrJats-missing {
+	display: block;
+	padding: 2rem 1rem;
+	text-align: center;
+	background: var(--ojsbrJats-soft);
+	font-style: italic;
+}
+
+.ojsbrJats-tablescroll {
+	overflow-x: auto;
+	max-width: 100%;
+}
+
+.ojsbrJats-tablegrid {
+	border-collapse: collapse;
+	width: auto;
+	min-width: 50%;
+	margin: 0;
+	font-size: 0.9em;
+}
+
+.ojsbrJats-tablegrid th,
+.ojsbrJats-tablegrid td {
+	padding: 0.35rem 0.6rem;
+	border: 1px solid var(--ojsbrJats-line);
+	vertical-align: top;
+	text-align: left;
+}
+
+.ojsbrJats-tablegrid thead th,
+.ojsbrJats-tablegrid thead td {
+	background: var(--ojsbrJats-soft);
+	font-weight: bold;
+}
+
+.ojsbrJats-tablegrid .ojsbrJats-align-center {
+	text-align: center;
+}
+
+.ojsbrJats-tablegrid .ojsbrJats-align-right {
+	text-align: right;
+}
+
+.ojsbrJats-tablegrid .ojsbrJats-align-justify {
+	text-align: justify;
+}
+
+/* Formulas */
+
+.ojsbrJats-formula {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	gap: 1rem;
+	margin: 1rem 0;
+	overflow-x: auto;
+}
+
+.ojsbrJats-formulalabel {
+	margin-left: auto;
+}
+
+.ojsbrJats-tex {
+	white-space: pre-wrap;
+}
+
+.ojsbrJats-pre {
+	overflow-x: auto;
+	padding: 0.75rem;
+	background: var(--ojsbrJats-soft);
+}
+
+@media (max-width: 600px) {
+	.ojsbrJats-download {
+		margin-left: 0;
+	}
+
+	.ojsbrJats-abstract,
+	.ojsbrJats-info,
+	.ojsbrJats-bios {
+		padding: 0.75rem;
+	}
+
+	.ojsbrJats-quote {
+		margin-left: 0.5rem;
+	}
+}
+
+@media print {
+	.ojsbrJats-toolbar {
+		display: none;
+	}
+}

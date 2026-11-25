@@ -1,0 +1,83 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: en\n"
+
+msgid "plugins.generic.ojsbrJatsViewer.displayName"
+msgstr "Multilingual JATS Viewer"
+
+msgid "plugins.generic.ojsbrJatsViewer.description"
+msgstr "Shows the JATS XML galleys as text in the journal page, built on the server, with a selector for the language of the text when the XML has translations (SciELO sub-article), and panels of figures and of tables. It replaces the Lens Galley viewer while enabled; the download of the galley still returns the XML file."
+
+msgid "plugins.generic.ojsbrJatsViewer.language"
+msgstr "Language of the text:"
+
+msgid "plugins.generic.ojsbrJatsViewer.figures"
+msgstr "Figures ({$number})"
+
+msgid "plugins.generic.ojsbrJatsViewer.tables"
+msgstr "Tables ({$number})"
+
+msgid "plugins.generic.ojsbrJatsViewer.downloadXml"
+msgstr "Download XML"
+
+msgid "plugins.generic.ojsbrJatsViewer.error"
+msgstr "This XML file could not be shown as text. <a href=\"{$url}\">Download the XML file</a>."
+
+msgid "plugins.generic.ojsbrJatsViewer.label.abstract"
+msgstr "Abstract"
+
+msgid "plugins.generic.ojsbrJatsViewer.label.keywords"
+msgstr "Keywords"
+
+msgid "plugins.generic.ojsbrJatsViewer.label.references"
+msgstr "References"
+
+msgid "plugins.generic.ojsbrJatsViewer.label.notes"
+msgstr "Notes"
+
+msgid "plugins.generic.ojsbrJatsViewer.label.acknowledgments"
+msgstr "Acknowledgments"
+
+msgid "plugins.generic.ojsbrJatsViewer.label.articleInfo"
+msgstr "Article information"
+
+msgid "plugins.generic.ojsbrJatsViewer.label.aboutAuthors"
+msgstr "About the authors"
+
+msgid "plugins.generic.ojsbrJatsViewer.label.received"
+msgstr "Received"
+
+msgid "plugins.generic.ojsbrJatsViewer.label.revised"
+msgstr "Revised"
+
+msgid "plugins.generic.ojsbrJatsViewer.label.accepted"
+msgstr "Accepted"
+
+msgid "plugins.generic.ojsbrJatsViewer.label.published"
+msgstr "Published"
+
+msgid "plugins.generic.ojsbrJatsViewer.label.license"
+msgstr "License"
+
+msgid "plugins.generic.ojsbrJatsViewer.label.copyright"
+msgstr "Copyright"
+
+msgid "plugins.generic.ojsbrJatsViewer.label.funding"
+msgstr "Funding"
+
+msgid "plugins.generic.ojsbrJatsViewer.label.correspondence"
+msgstr "Correspondence"
+
+msgid "plugins.generic.ojsbrJatsViewer.label.imageUnavailable"
+msgstr "Image not available"
+
+msgid "plugins.generic.ojsbrJatsViewer.label.orcid"
+msgstr "ORCID profile of"
+
+msgid "plugins.generic.ojsbrJatsViewer.label.appendix"
+msgstr "Appendix"
