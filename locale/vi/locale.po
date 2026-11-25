@@ -1,0 +1,108 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: vi\n"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.displayName"
+msgstr "Trình xem JATS đa ngôn ngữ"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.description"
+msgstr "Hiển thị bản XML JATS dưới dạng văn bản trên trang tạp chí, được tạo trên máy chủ, với bộ chọn ngôn ngữ của văn bản khi XML có bản dịch (sub-article của SciELO), cùng các bảng hình và bảng. Thay thế trình xem Lens Galley khi được bật; việc tải xuống vẫn trả về tệp XML."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.language"
+msgstr "Ngôn ngữ của văn bản:"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.figures"
+msgstr "Hình ({$number})"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.tables"
+msgstr "Bảng ({$number})"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.downloadXml"
+msgstr "Tải XML"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.error"
+msgstr "Không thể hiển thị tệp XML này dưới dạng văn bản. <a href=\"{$url}\">Tải tệp XML</a>."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.abstract"
+msgstr "Tóm tắt"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.keywords"
+msgstr "Từ khóa"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.references"
+msgstr "Tài liệu tham khảo"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.notes"
+msgstr "Ghi chú"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.acknowledgments"
+msgstr "Lời cảm ơn"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.articleInfo"
+msgstr "Thông tin bài báo"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.aboutAuthors"
+msgstr "Về tác giả"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.received"
+msgstr "Ngày nhận"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.revised"
+msgstr "Ngày sửa"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.accepted"
+msgstr "Ngày chấp nhận"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.published"
+msgstr "Ngày xuất bản"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.license"
+msgstr "Giấy phép"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.copyright"
+msgstr "Bản quyền"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.funding"
+msgstr "Tài trợ"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.correspondence"
+msgstr "Liên hệ"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.imageUnavailable"
+msgstr "Không có hình ảnh"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.orcid"
+msgstr "Hồ sơ ORCID của"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.appendix"
+msgstr "Phụ lục"

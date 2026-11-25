@@ -1,0 +1,108 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: sl\n"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.displayName"
+msgstr "Večjezični pregledovalnik JATS"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.description"
+msgstr "Prikazuje datoteke JATS XML kot besedilo na strani revije, ustvarjeno na strežniku, z izbiro jezika besedila, kadar XML vsebuje prevode (sub-article SciELO), ter s ploščama slik in tabel. Dokler je omogočen, nadomešča pregledovalnik Lens Galley; prenos datoteke še vedno vrne datoteko XML."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.language"
+msgstr "Jezik besedila:"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.figures"
+msgstr "Slike ({$number})"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.tables"
+msgstr "Tabele ({$number})"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.downloadXml"
+msgstr "Prenesi XML"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.error"
+msgstr "Te datoteke XML ni bilo mogoče prikazati kot besedilo. <a href=\"{$url}\">Prenesite datoteko XML</a>."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.abstract"
+msgstr "Povzetek"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.keywords"
+msgstr "Ključne besede"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.references"
+msgstr "Literatura"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.notes"
+msgstr "Opombe"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.acknowledgments"
+msgstr "Zahvala"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.articleInfo"
+msgstr "Podatki o članku"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.aboutAuthors"
+msgstr "O avtorjih"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.received"
+msgstr "Prejeto"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.revised"
+msgstr "Popravljeno"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.accepted"
+msgstr "Sprejeto"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.published"
+msgstr "Objavljeno"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.license"
+msgstr "Licenca"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.copyright"
+msgstr "Avtorske pravice"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.funding"
+msgstr "Financiranje"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.correspondence"
+msgstr "Korespondenca"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.imageUnavailable"
+msgstr "Slika ni na voljo"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.orcid"
+msgstr "Profil ORCID:"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.appendix"
+msgstr "Priloga"

@@ -1,0 +1,108 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: ms\n"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.displayName"
+msgstr "Pemapar JATS Pelbagai Bahasa"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.description"
+msgstr "Memaparkan galei XML JATS sebagai teks dalam halaman jurnal, dijana di pelayan, dengan pemilih bahasa teks apabila XML mengandungi terjemahan (sub-article SciELO), serta panel rajah dan jadual. Menggantikan pemapar Lens Galley selagi diaktifkan; muat turun galei masih memulangkan fail XML."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.language"
+msgstr "Bahasa teks:"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.figures"
+msgstr "Rajah ({$number})"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.tables"
+msgstr "Jadual ({$number})"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.downloadXml"
+msgstr "Muat turun XML"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.error"
+msgstr "Fail XML ini tidak dapat dipaparkan sebagai teks. <a href=\"{$url}\">Muat turun fail XML</a>."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.abstract"
+msgstr "Abstrak"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.keywords"
+msgstr "Kata kunci"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.references"
+msgstr "Rujukan"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.notes"
+msgstr "Nota"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.acknowledgments"
+msgstr "Penghargaan"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.articleInfo"
+msgstr "Maklumat artikel"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.aboutAuthors"
+msgstr "Tentang pengarang"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.received"
+msgstr "Diterima"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.revised"
+msgstr "Disemak"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.accepted"
+msgstr "Diluluskan"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.published"
+msgstr "Diterbitkan"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.license"
+msgstr "Lesen"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.copyright"
+msgstr "Hak cipta"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.funding"
+msgstr "Pembiayaan"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.correspondence"
+msgstr "Surat-menyurat"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.imageUnavailable"
+msgstr "Imej tidak tersedia"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.orcid"
+msgstr "Profil ORCID"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.appendix"
+msgstr "Lampiran"

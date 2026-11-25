@@ -1,0 +1,108 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: ro\n"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.displayName"
+msgstr "Vizualizator JATS multilingv"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.description"
+msgstr "Afișează fișierele JATS XML ca text în pagina revistei, generat pe server, cu un selector al limbii textului când XML-ul conține traduceri (sub-article SciELO) și panouri de figuri și tabele. Înlocuiește vizualizatorul Lens Galley cât timp este activat; descărcarea fișierului returnează în continuare fișierul XML."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.language"
+msgstr "Limba textului:"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.figures"
+msgstr "Figuri ({$number})"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.tables"
+msgstr "Tabele ({$number})"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.downloadXml"
+msgstr "Descarcă XML"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.error"
+msgstr "Acest fișier XML nu a putut fi afișat ca text. <a href=\"{$url}\">Descărcați fișierul XML</a>."
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.abstract"
+msgstr "Rezumat"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.keywords"
+msgstr "Cuvinte-cheie"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.references"
+msgstr "Bibliografie"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.notes"
+msgstr "Note"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.acknowledgments"
+msgstr "Mulțumiri"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.articleInfo"
+msgstr "Informații despre articol"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.aboutAuthors"
+msgstr "Despre autori"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.received"
+msgstr "Primit"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.revised"
+msgstr "Revizuit"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.accepted"
+msgstr "Acceptat"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.published"
+msgstr "Publicat"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.license"
+msgstr "Licență"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.copyright"
+msgstr "Drepturi de autor"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.funding"
+msgstr "Finanțare"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.correspondence"
+msgstr "Corespondență"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.imageUnavailable"
+msgstr "Imagine indisponibilă"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.orcid"
+msgstr "Profilul ORCID al"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.appendix"
+msgstr "Anexă"

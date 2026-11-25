@@ -1,0 +1,108 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: zh_Hans\n"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.displayName"
+msgstr "多语言 JATS 查看器"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.description"
+msgstr "在期刊页面中以服务器生成的文本显示 JATS XML 校样；当 XML 含有译文（SciELO sub-article）时可选择正文语言，并提供图和表面板。启用期间替代 Lens Galley 查看器；下载校样仍返回 XML 文件。"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.language"
+msgstr "正文语言："
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.figures"
+msgstr "图 ({$number})"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.tables"
+msgstr "表 ({$number})"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.downloadXml"
+msgstr "下载 XML"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.error"
+msgstr "无法将此 XML 文件显示为文本。<a href=\"{$url}\">下载 XML 文件</a>。"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.abstract"
+msgstr "摘要"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.keywords"
+msgstr "关键词"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.references"
+msgstr "参考文献"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.notes"
+msgstr "注释"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.acknowledgments"
+msgstr "致谢"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.articleInfo"
+msgstr "文章信息"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.aboutAuthors"
+msgstr "作者简介"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.received"
+msgstr "收稿日期"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.revised"
+msgstr "修回日期"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.accepted"
+msgstr "录用日期"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.published"
+msgstr "发表日期"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.license"
+msgstr "许可协议"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.copyright"
+msgstr "版权"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.funding"
+msgstr "基金资助"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.correspondence"
+msgstr "通讯作者"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.imageUnavailable"
+msgstr "图片不可用"
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.orcid"
+msgstr "ORCID 档案："
+
+#, fuzzy
+msgid "plugins.generic.ojsbrJatsViewer.label.appendix"
+msgstr "附录"

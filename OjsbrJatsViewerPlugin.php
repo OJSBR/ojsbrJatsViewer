@@ -51,6 +51,9 @@ class OjsbrJatsViewerPlugin extends GenericPlugin
     /** Locale of the labels when the plugin has no translation for the language of the text. */
     public const FALLBACK_LOCALE = 'en';
 
+    /** Locale of the labels for a language written without region: "pt" in a JATS file is almost always Brazilian Portuguese. */
+    public const PREFERRED_LABEL_LOCALES = ['pt' => 'pt_BR', 'zh' => 'zh_Hans', 'sr' => 'sr_Latn', 'nb' => 'nb_NO', 'no' => 'nb_NO'];
+
     public function register($category, $path, $mainContextId = null): bool
     {
         $success = parent::register($category, $path, $mainContextId);
@@ -232,7 +235,9 @@ class OjsbrJatsViewerPlugin extends GenericPlugin
      */
     protected function getLabels(string $language): array
     {
-        $locale = JatsDocument::matchLanguage($language, $this->getPluginLocales()) ?? self::FALLBACK_LOCALE;
+        $locales = $this->getPluginLocales();
+        $preferred = self::PREFERRED_LABEL_LOCALES[strtolower($language)] ?? null;
+        $locale = ($preferred && in_array($preferred, $locales)) ? $preferred : (JatsDocument::matchLanguage($language, $locales) ?? self::FALLBACK_LOCALE);
         $labels = [];
         foreach (JatsRenderer::LABELS as $name => $key) {
             $labels[$name] = __($key, [], $locale);

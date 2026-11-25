@@ -201,21 +201,26 @@
 	<xsl:template match="aff" mode="header">
 		<li>
 			<xsl:call-template name="id"/>
-			<xsl:if test="label">
-				<sup class="ojsbrJats-afflabel"><xsl:apply-templates select="label/node()"/></sup>
-				<xsl:text> </xsl:text>
-			</xsl:if>
+			<sup class="ojsbrJats-afflabel">
+				<xsl:choose>
+					<xsl:when test="label"><xsl:apply-templates select="label/node()"/></xsl:when>
+					<xsl:otherwise><xsl:value-of select="count(preceding-sibling::aff) + 1"/></xsl:otherwise>
+				</xsl:choose>
+			</sup>
+			<xsl:text> </xsl:text>
+			<xsl:variable name="original" select="normalize-space(institution[@content-type='original'])"/>
+			<xsl:variable name="orgname" select="normalize-space(institution[@content-type='orgname'][1])"/>
 			<xsl:choose>
-				<!-- SciELO keeps the affiliation as written by the author. -->
-				<xsl:when test="institution[@content-type='original']">
+				<!-- SciELO keeps the affiliation as written by the author, when it is complete. -->
+				<xsl:when test="$original != '' and ($orgname = '' or contains($original, $orgname))">
 					<xsl:apply-templates select="institution[@content-type='original'][1]/node()"/>
 				</xsl:when>
 				<!-- Punctuation written in the XML: keep it as it is. -->
 				<xsl:when test="text()[normalize-space()]">
-					<xsl:apply-templates select="node()[not(self::label)]"/>
+					<xsl:apply-templates select="node()[not(self::label or self::institution[@content-type='original'])]"/>
 				</xsl:when>
 				<xsl:otherwise>
-					<xsl:for-each select="institution | addr-line/* | addr-line[not(*)] | city | state | country | email">
+					<xsl:for-each select="institution[not(@content-type='original')] | addr-line/* | addr-line[not(*)] | city | state | country | email">
 						<xsl:if test="position() &gt; 1"><xsl:text>, </xsl:text></xsl:if>
 						<xsl:apply-templates select="."/>
 					</xsl:for-each>
@@ -1078,6 +1083,7 @@
 			<xsl:choose>
 				<xsl:when test="normalize-space(.) != '' or *"><xsl:apply-templates/></xsl:when>
 				<xsl:when test="$target/label"><xsl:value-of select="normalize-space($target/label)"/></xsl:when>
+				<xsl:when test="$target/self::aff"><xsl:value-of select="count($target/preceding-sibling::aff) + 1"/></xsl:when>
 				<xsl:otherwise><xsl:value-of select="$rid"/></xsl:otherwise>
 			</xsl:choose>
 		</xsl:variable>
