@@ -87,6 +87,9 @@ describe('OJSBR JATS Viewer', function() {
 
 	const article = '#ojsbrJats-article';
 
+	// The same address in another language of the text.
+	const inLanguage = (url, language) => url + (url.includes('?') ? '&' : '?') + 'lang=' + language;
+
 	it('Enables the plugin and imports the test articles', function() {
 		login(adminUser, adminPassword);
 		openPluginsTab();
@@ -104,14 +107,19 @@ describe('OJSBR JATS Viewer', function() {
 
 	it('Shows each language of a trilingual article, with its own address', function() {
 		galleyUrl('JATS viewer: trilingual article').then((url) => {
+			// Without a choice, the language of the interface (English in PKP's data set) comes first.
 			cy.visit(url);
 			cy.get('.ojsbrJats-languages a').should('have.length', 3);
 			cy.get('.ojsbrJats-languages a[aria-current="page"]').should('have.length', 1);
-			cy.get(article).should('have.attr', 'lang', 'pt');
-			cy.get('.ojsbrJats-title').should('contain', 'A deferência como premissa');
+			cy.get(article).should('have.attr', 'lang', 'en');
 			cy.get('link[rel="alternate"][hreflang="es"]').should('exist');
 
-			cy.visit(url + (url.includes('?') ? '&' : '?') + 'lang=en');
+			cy.visit(inLanguage(url, 'pt'));
+			cy.get(article).should('have.attr', 'lang', 'pt');
+			cy.get('.ojsbrJats-title').should('contain', 'A deferência como premissa');
+			cy.get(article).should('contain', 'Considerações finais');
+
+			cy.visit(inLanguage(url, 'en'));
 			cy.get(article).should('have.attr', 'lang', 'en');
 			cy.get('.ojsbrJats-title').should('contain', 'Deference as a premise');
 			cy.get(article).should('contain', 'Final considerations').and('not.contain', 'Considerações finais');
@@ -140,13 +148,18 @@ describe('OJSBR JATS Viewer', function() {
 
 	it('Shows the images of the galley in the text and in the figures panel', function() {
 		galleyUrl('JATS viewer: figures and a table').then((url) => {
-			cy.visit(url);
+			// The Portuguese text has a third figure, whose file was not sent.
+			cy.visit(inLanguage(url, 'pt'));
 			cy.get('.ojsbrJats-panel-figures summary').should('contain', '3');
 			cy.get('.ojsbrJats-panel-tables summary').should('contain', '1');
 			cy.get('#j-f1 img').should('be.visible').and(($img) => {
 				expect($img[0].naturalWidth, 'image loaded').to.be.greaterThan(0);
 			});
 			cy.get('#j-f3 .ojsbrJats-missing').should('exist');
+
+			cy.visit(inLanguage(url, 'en'));
+			cy.get('.ojsbrJats-panel-figures summary').should('contain', '2');
+			cy.get('#j-f1-en img').should(($img) => expect($img[0].naturalWidth, 'image loaded').to.be.greaterThan(0));
 		});
 	});
 
