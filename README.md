@@ -28,6 +28,9 @@ translations.
   layout of the journal: wide tables scroll inside their own frame, images fit the column, and the
   page works from a desktop to a 375 px phone.
 
+**🔎 See it live:** [a trilingual article of the Revista Jurídica da Amazônia](https://revista.mpro.mp.br/amazonia/pt_BR/article/view/106/196?lang=pt)
+(Português, English and Español from the same XML; switch the language at the top of the text).
+
 ## Compatibility & branches
 
 | Application | Branch | Plugin release |
@@ -166,6 +169,9 @@ cujo XML traz traduções.
   visualizador de tela cheia com cara de site fora do OJS e nunca quebra o layout da revista:
   tabela larga rola dentro do próprio quadro, imagem se ajusta à coluna, e a página funciona do
   computador ao celular de 375 px.
+
+**🔎 Veja funcionando:** [um artigo trilíngue da Revista Jurídica da Amazônia](https://revista.mpro.mp.br/amazonia/pt_BR/article/view/106/196?lang=pt)
+(Português, English e Español do mesmo XML; troque o idioma no topo do texto).
 
 ### Compatibilidade e branches
 
