@@ -275,7 +275,12 @@
 		<p class="ojsbrJats-keywords">
 			<xsl:if test="@xml:lang and @xml:lang != $lang"><xsl:attribute name="lang"><xsl:value-of select="@xml:lang"/></xsl:attribute></xsl:if>
 			<strong>
+				<xsl:variable name="title" select="normalize-space(title[1])"/>
 				<xsl:choose>
+					<!-- SciELO often writes the colon in the title ("Palavras-chave:"): only one is shown. -->
+					<xsl:when test="substring($title, string-length($title)) = ':'">
+						<xsl:value-of select="normalize-space(substring($title, 1, string-length($title) - 1))"/>
+					</xsl:when>
 					<xsl:when test="title"><xsl:apply-templates select="title[1]/node()"/></xsl:when>
 					<xsl:otherwise><xsl:value-of select="$l_keywords"/></xsl:otherwise>
 				</xsl:choose>

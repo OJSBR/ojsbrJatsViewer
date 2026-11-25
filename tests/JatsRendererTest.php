@@ -112,6 +112,16 @@ class JatsRendererTest extends PKPTestCase
         $this->assertStringContainsString('Universidade Exemplo, Brasília, DF, Brasil', $this->text($part['article']), 'Affiliation with the punctuation of the XML.');
     }
 
+    public function testAKeywordsTitleEndingWithAColonGetsNoSecondOne(): void
+    {
+        foreach (['pt' => 'Palavras-chave', 'en' => 'Keywords', 'es' => 'Palabras clave'] as $language => $title) {
+            $html = $this->render('keywords-colon.xml', $language)['article'];
+            $this->assertStringContainsString('<strong>' . $title . ': </strong>', $html, $language);
+            $this->assertStringNotContainsString('::', $this->text($html), $language);
+        }
+        $this->assertStringContainsString('<strong>Palavras-chave: </strong>', $this->render('trilingual.xml', 'pt')['article'], 'A title without a colon.');
+    }
+
     public function testNothingDangerousGetsThrough(): void
     {
         $part = $this->render('xxe.xml', 'pt');
