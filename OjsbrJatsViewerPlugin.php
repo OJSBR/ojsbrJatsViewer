@@ -16,6 +16,13 @@
  *        It answers the same hook as the Lens Galley plugin, before it, so the
  *        Lens is used again as soon as this plugin is disabled. The download of
  *        the galley still returns the XML file.
+ *
+ *        Credits: it follows the approach of the Lens Galley plugin of the Public
+ *        Knowledge Project (https://github.com/asmecher/lensGalley, GPL v3), built
+ *        on eLife Lens (https://github.com/elifesciences/lens): the same hook, the
+ *        images found among the dependent files of the galley, the same addresses
+ *        for them. The multilingual model is the one of SciELO PS, studied in
+ *        SciELO packtools (https://github.com/scieloorg/packtools).
  */
 
 namespace APP\plugins\generic\ojsbrJatsViewer;
