@@ -10,8 +10,9 @@ A generic plugin for **Open Journal Systems (OJS) 3.5** that shows **JATS XML ga
 of the journal, built on the server, with a **language selector** for articles whose XML carries
 translations.
 
-> **Developed and maintained by [OJSBR](https://ojsbr.com).** See the
-> [Credits & authorship](#credits--authorship) section below.
+> **Developed and maintained by [OJSBR](https://ojsbr.com),** following the path opened by the
+> [Lens Galley](https://github.com/asmecher/lensGalley) plugin of the Public Knowledge Project and by
+> [eLife Lens](https://github.com/elifesciences/lens). See the [Credits & authorship](#credits--authorship) section below.
 
 ## Highlights
 
@@ -129,8 +130,21 @@ continuous integration on OJS with PHP 8.2/8.3 and MySQL/PostgreSQL:
 
 ## Credits & authorship
 
-- **Developed and maintained by** [OJSBR](https://ojsbr.com) — original plugin.
+- **Developed and maintained by** [OJSBR](https://ojsbr.com).
 - Distributed under the **GNU GPL v3**.
+
+This plugin stands on the work of others, and we thank them:
+
+- **[Lens Galley](https://github.com/asmecher/lensGalley)**, by the [Public Knowledge Project](https://pkp.sfu.ca)
+  (Simon Fraser University, GPL v3), brought XML galleys to the readers of OJS. This plugin follows its
+  approach: the same hook for the galley page, the same way of finding the images among the dependent
+  files of the galley and the same addresses for them, and the original XML kept for download.
+- **[eLife Lens](https://github.com/elifesciences/lens)**, by [eLife](https://elifesciences.org) and
+  [Substance](https://github.com/substance), the reader on which the Lens Galley is built, showed how a JATS
+  article can be read online, with its figures and tables at hand in panels beside the text.
+- **[SciELO packtools](https://github.com/scieloorg/packtools)**, by [SciELO](https://scielo.org)
+  (BSD), whose HTML generator for SciELO PS was studied for the multilingual model (`sub-article`
+  translations) that this plugin shows.
 
 ## AI use
 
@@ -155,6 +169,10 @@ Distributed under the **GNU GPL v3**. See [`LICENSE`](LICENSE) and `docs/COPYING
 Plugin genérico para o **Open Journal Systems (OJS) 3.5** que exibe as **composições em XML
 JATS** como uma página da revista, gerada no servidor, com **seletor de idioma** para os artigos
 cujo XML traz traduções.
+
+> **Desenvolvido e mantido pela [OJSBR](https://ojsbr.com),** seguindo o caminho aberto pelo plugin
+> [Lens Galley](https://github.com/asmecher/lensGalley), do Public Knowledge Project, e pelo
+> [eLife Lens](https://github.com/elifesciences/lens). Veja a seção [Créditos e autoria](#créditos-e-autoria).
 
 ### Destaques
 
@@ -255,8 +273,21 @@ marcados como *fuzzy*.
 
 ### Créditos e autoria
 
-- **Desenvolvido e mantido pela** [OJSBR](https://ojsbr.com) — plugin original.
+- **Desenvolvido e mantido pela** [OJSBR](https://ojsbr.com).
 - Distribuído sob a **GNU GPL v3**.
+
+Este plugin se apoia no trabalho de outros, e agradecemos a eles:
+
+- **[Lens Galley](https://github.com/asmecher/lensGalley)**, do [Public Knowledge Project](https://pkp.sfu.ca)
+  (Simon Fraser University, GPL v3), levou as composições XML aos leitores do OJS. Este plugin segue a
+  abordagem dele: o mesmo gancho da página da composição, a mesma forma de achar as imagens entre os
+  arquivos dependentes e os mesmos endereços para elas, e o XML original mantido para download.
+- **[eLife Lens](https://github.com/elifesciences/lens)**, da [eLife](https://elifesciences.org) e da
+  [Substance](https://github.com/substance), o leitor sobre o qual o Lens Galley foi construído, mostrou como
+  ler um artigo JATS na web, com figuras e tabelas à mão em painéis ao lado do texto.
+- **[SciELO packtools](https://github.com/scieloorg/packtools)**, da [SciELO](https://scielo.org)
+  (BSD), cujo gerador de HTML para o SciELO PS foi estudado para o modelo multilíngue (traduções em
+  `sub-article`) que este plugin exibe.
 
 ### Uso de IA
 
