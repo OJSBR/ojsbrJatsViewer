@@ -1,10 +1,10 @@
 # OJSBR JATS Viewer — OJS plugin
 
 [![OJS](https://img.shields.io/badge/OJS-3.5-brightgreen)](https://pkp.sfu.ca/ojs/)
-[![Version](https://img.shields.io/badge/version-1.0.0.2-blue)](version.xml)
+[![Version](https://img.shields.io/badge/version-5.0.0.0-blue)](version.xml)
 [![License](https://img.shields.io/badge/license-GPL--3.0-lightgrey)](LICENSE)
 
-**⬇️ Install package:** [OJS 3.5](https://github.com/OJSBR/ojsbrJatsViewer/releases/download/1.0.0.2/ojsbrJatsViewer-1.0.0.2.tar.gz) — or browse all [Releases](../../releases).
+**⬇️ Install package:** [OJS 3.5](https://github.com/OJSBR/ojsbrJatsViewer/releases/download/5.0.0.0/ojsbrJatsViewer-5.0.0.0.tar.gz) — or browse all [Releases](../../releases).
 
 A generic plugin for **Open Journal Systems (OJS) 3.5** that shows **JATS XML galleys** as a page
 of the journal, built on the server, with a **language selector** for articles whose XML carries
@@ -36,7 +36,7 @@ translations.
 
 | Application | Branch | Plugin release |
 |-------------|--------|----------------|
-| OJS 3.5.x   | [`stable-3_5_0`](../../tree/stable-3_5_0) *(default)* | 1.0.0.2 |
+| OJS 3.5.x   | [`stable-3_5_0`](../../tree/stable-3_5_0) *(default)* | 5.0.0.0 |
 
 Requires PHP 8.2 or later with the `dom`, `xsl` and `intl` extensions. OMP and OPS are not
 supported: there the plugin does nothing.
@@ -164,7 +164,7 @@ Distributed under the **GNU GPL v3**. See [`LICENSE`](LICENSE) and `docs/COPYING
 
 ## 🇧🇷 Português
 
-**⬇️ Pacote de instalação:** [OJS 3.5](https://github.com/OJSBR/ojsbrJatsViewer/releases/download/1.0.0.2/ojsbrJatsViewer-1.0.0.2.tar.gz) — ou veja todas as [Releases](../../releases).
+**⬇️ Pacote de instalação:** [OJS 3.5](https://github.com/OJSBR/ojsbrJatsViewer/releases/download/5.0.0.0/ojsbrJatsViewer-5.0.0.0.tar.gz) — ou veja todas as [Releases](../../releases).
 
 Plugin genérico para o **Open Journal Systems (OJS) 3.5** que exibe as **composições em XML
 JATS** como uma página da revista, gerada no servidor, com **seletor de idioma** para os artigos
@@ -195,7 +195,7 @@ cujo XML traz traduções.
 
 | Aplicação | Branch | Versão do plugin |
 |-----------|--------|------------------|
-| OJS 3.5.x | [`stable-3_5_0`](../../tree/stable-3_5_0) *(padrão)* | 1.0.0.2 |
+| OJS 3.5.x | [`stable-3_5_0`](../../tree/stable-3_5_0) *(padrão)* | 5.0.0.0 |
 
 Requer PHP 8.2 ou superior, com as extensões `dom`, `xsl` e `intl`. OMP e OPS não são
 suportados: neles o plugin não faz nada.
