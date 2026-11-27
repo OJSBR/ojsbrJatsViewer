@@ -51,6 +51,10 @@ empty page), and tables appear under a tab called *Figures*.
 
 ## What the plugin does
 
+<img src="docs/article-en.png" alt="A JATS article in the browser, with the language selector and the Figures and Tables panels" width="640"> <img src="docs/article-mobile-en.png" alt="The same article on a phone" width="180">
+
+<sub>A fictitious article on the OJS test installation of OJSBR.</sub>
+
 - **Language selector** for the main article and each translation. The first language shown is
   the language of the interface, when the XML has it; otherwise the language of the main article.
   A translation without its own references shows those of the main article.
@@ -209,6 +213,10 @@ substitui a página da revista, o texto é montado no navegador (o buscador vê 
 as tabelas ficam numa aba chamada *Figures*.
 
 ### O que o plugin faz
+
+<img src="docs/article-pt_BR.png" alt="Um artigo JATS no navegador, com o seletor de idioma e os painéis de figuras e tabelas" width="640"> <img src="docs/article-mobile-pt_BR.png" alt="O mesmo artigo no celular" width="180">
+
+<sub>Artigo fictício, na instalação de teste do OJS da OJSBR.</sub>
 
 - **Seletor de idioma** para o artigo principal e cada tradução. O idioma inicial é o da
   interface, quando o XML o tem; senão, o do artigo principal. Tradução sem referências próprias
